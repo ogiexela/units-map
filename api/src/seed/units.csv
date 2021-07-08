@@ -1,0 +1,1458 @@
+property,latitude,longitude,city,country,monthly_rate,lease_term_months,total_views
+Sample Property 1,43.641382,-79.431819,Toronto,Canada,1100,12,11091
+Sample Property 2,43.646583,-79.407402,Toronto,Canada,1100,12,11447
+Sample Property 3,43.64667,-79.40717,Toronto,Canada,1100,12,8261
+Sample Property 4,43.6429,-79.42538,Toronto,Canada,1100,12,6422
+Sample Property 5,43.6429,-79.42538,Toronto,Canada,1100,12,9248
+Sample Property 6,43.64342,-79.4220985,Toronto,Canada,1100,12,10096
+Sample Property 7,43.652321,-79.37938,Toronto,Canada,1100,12,5078
+Sample Property 8,49.28052,-123.100731,Vancouver,Canada,1100,12,6594
+Sample Property 9,43.645285,-79.412963,Toronto,Canada,1100,12,11391
+Sample Property 10,43.646613,-79.407357,Toronto,Canada,1100,12,12174
+Sample Property 11,43.644105,-79.419764,Toronto,Canada,1100,12,8084
+Sample Property 12,43.646441,-79.408093,Toronto,Canada,1100,12,10165
+Sample Property 13,43.646569,-79.407184,Toronto,Canada,1100,12,6066
+Sample Property 14,43.646235,-79.408502,Toronto,Canada,1100,12,12084
+Sample Property 123,26.713808,-80.050308,Toronto,Canada,1100,12,11600
+Sample Property 301,43.69535,-79.46347,Toronto,Canada,1100,12,7554
+Sample Property 302,43.6434202,-79.4220965,Toronto,Canada,1100,12,6592
+Sample Property 304,43.64342,-79.4220985,Toronto,Canada,1100,12,8844
+Sample Property 306,43.540542,-80.553264,Waterloo,Canada,1100,12,12715
+Sample Property 307,43.647208,-79.379381,Toronto,Canada,1100,12,14808
+Sample Property 400,43.67074,-79.39285,Toronto,Canada,1100,12,5198
+Sample Property 401,43.66996,-79.39271,Toronto,Canada,1100,12,14252
+Sample Property 402,43.66998,-79.39276,Toronto,Canada,1100,12,6681
+Sample Property 403,43.670189,-79.391581,Toronto,Canada,1100,12,8252
+Sample Property 404,43.671353,79.390966,Toronto,Canada,1100,12,8850
+Sample Property 405,43.67135,-79.39097,Toronto,Canada,1100,12,9276
+Sample Property 406,43.642133,-79.389596,Toronto,Canada,1100,12,9776
+Sample Property 407,43.70029,-79.430017,Toronto,Canada,1100,12,8403
+Sample Property 408,43.650431,-79.3588,Toronto,Canada,1100,12,5970
+Sample Property 409,43.703796,-79.411692,Toronto,Canada,1100,12,5930
+Sample Property 410,43.671515,-79.387423,Toronto,Canada,1100,12,13061
+Sample Property 411,43.649028,-79.372145,Toronto,Canada,1100,12,5047
+Sample Property 412,43.721697,-79.512102,Toronto,Canada,1100,12,10136
+Sample Property 413,43.644314,-79.400276,Toronto,Canada,1100,12,9757
+Sample Property 415,43.670975,-79.388278,Toronto,Canada,1100,12,13386
+Sample Property 416,43.645537,-79.394331,Toronto,Canada,1100,12,11433
+Sample Property 417,43.650505,-79.358474,Toronto,Canada,1100,12,6957
+Sample Property 418,43.646962,-79.388463,Toronto,Canada,1100,12,6697
+Sample Property 419,43.650718,-79.358025,Toronto,Canada,1100,12,13265
+Sample Property 420,43.656154,-79.382304,Toronto,Canada,1100,12,7234
+Sample Property 421,43.645075,-79.396338,Toronto,Canada,1100,12,5062
+Sample Property 422,43.646263,-79.390974,Toronto,Canada,1100,12,12148
+Sample Property 423,43.706913,-79.396564,Toronto,Canada,1100,12,8108
+Sample Property 424,43.650618,-79.35957,Toronto,Canada,1100,12,5570
+Sample Property 425,43.707844,-79.393882,Toronto,Canada,1345,12,10637
+Sample Property 426,43.721269,-79.511416,Toronto,Canada,1345,12,14677
+Sample Property 428,43.641403,-79.432193,Toronto,Canada,1345,12,14177
+Sample Property 429,43.671519,-79.380388,Toronto,Canada,1345,12,9327
+Sample Property 430,43.671135,-79.390842,Toronto,Canada,1345,12,8090
+Sample Property 431,43.650076,-79.390668,Toronto,Canada,1345,12,13831
+Sample Property 432,43.721021,-79.512607,Toronto,Canada,1345,12,5122
+Sample Property 434,43.650192,-79.385192,Toronto,Canada,1345,12,8035
+Sample Property 435,43.650425,-79.384269,Toronto,Canada,1345,12,6718
+Sample Property 436,43.666045,-79.40605,Toronto,Canada,1345,12,9490
+Sample Property 437,43.669495,-79.389214,Toronto,Canada,1345,12,8732
+Sample Property 438,43.650022,-79.385771,Toronto,Canada,1345,12,12554
+Sample Property 439,43.649618,-79.385599,Toronto,Canada,1345,12,6415
+Sample Property 440,43.648935,-79.390535,Toronto,Canada,1345,12,10022
+Sample Property 441,43.655346,-79.413736,Toronto,Canada,1345,12,7336
+Sample Property 442,43.650261,-79.390051,Toronto,Canada,1345,12,7377
+Sample Property 443,43.666511,-79.405793,Toronto,Canada,1345,12,8206
+Sample Property 444,43.665145,-79.409741,Toronto,Canada,1345,12,6915
+Sample Property 445,43.664989,-79.410771,Toronto,Canada,1345,12,12184
+Sample Property 446,43.670543,-79.385264,Toronto,Canada,1345,12,14115
+Sample Property 447,43.667548,-79.403087,Toronto,Canada,1345,12,8600
+Sample Property 448,43.677916,-79.344272,Toronto,Canada,1345,12,10964
+Sample Property 450,36.111949,-115.171954,Las Vegas,United States,1345,12,9241
+Sample Property 451,36.111585,-115.171954,Las Vegas,United States,1345,12,7293
+Sample Property 452,43.646637,-79.377746,Toronto,Canada,1345,12,14656
+Sample Property 453,43.847614,-79.458793,Vaughan,Canada,1345,12,9472
+Sample Property 454,43.735974,-79.420268,Toronto,Canada,1345,12,6569
+Sample Property 455,43.769069,-79.38548,Toronto,Canada,1345,12,12725
+Sample Property 456,43.667988,-79.388974,Toronto,Canada,1345,12,7856
+Sample Property 457,43.645753,-79.39366,Toronto,Canada,1345,12,11750
+Sample Property 458,43.705494,-79.361523,East York,Canada,1345,12,10149
+Sample Property 459,43.776086,-79.343942,North York,Canada,1345,12,6733
+Sample Property 460,43.639499,-79.380861,Toronto,Canada,1345,12,11684
+Sample Property 461,43.639499,-79.380861,Toronto,Canada,1345,12,11969
+Sample Property 463,43.64446,-79.399336,Toronto,Canada,1345,12,10314
+Sample Property 464,43.645114,-79.383415,Toronto,Canada,1345,12,6133
+Sample Property 465,43.670479,-79.389932,Toronto,Canada,1345,12,9549
+Sample Property 466,43.643393,-79.366195,Toronto,Canada,1345,12,12648
+Sample Property 467,43.642848,-79.407321,Toronto,Canada,1345,12,8474
+Sample Property 468,43.638439,-79.41743,Toronto,Canada,1345,12,8664
+Sample Property 469,38.580085,-121.501013,Sacramento,USA,1200,12,8898
+Sample Property 472,43.668881,-79.392506,Toronto,Canada,1200,12,14117
+Sample Property 473,43.670217,-79.413194,Toronto,Canada,1200,12,11807
+Sample Property 474,43.675068,-79.400109,Toronto,Canada,1200,12,12408
+Sample Property 475,43.646911,-79.374341,Toronto,Canada,1200,12,14579
+Sample Property 476,43.648209,-79.389218,Toronto,Canada,1200,12,10913
+Sample Property 477,43.680934,-79.429741,Toronto,Canada,1200,12,10227
+Sample Property 478,43.644033,-79.390185,Toronto,Canada,1200,12,13922
+Sample Property 479,43.666708,-79.381469,Toronto,Canada,1200,12,11101
+Sample Property 480,43.648594,-79.373335,Toronto,Canada,1200,12,10739
+Sample Property 481,43.648503,-79.373271,Toronto,Canada,1200,12,9583
+Sample Property 482,43.648261,-79.373555,Toronto,Canada,1200,12,11218
+Sample Property 483,43.654994,-79.416032,Toronto,Canada,1200,12,12357
+Sample Property 484,43.643393,-79.366195,Toronto,Canada,1200,12,8322
+Sample Property 485,43.643393,-79.366195,Toronto,Canada,1200,12,8442
+Sample Property 486,43.655361,-79.418848,Toronto,Canada,1200,12,7889
+Sample Property 487,43.675006,-79.393085,Toronto,Canada,1200,12,7956
+Sample Property 500,43.64657,-79.407589,Toronto,Canada,1200,12,8246
+Sample Property 601,22.324989,114.180565,Hong Kong,China,1200,12,13282
+Sample Property 602,-27.533837,153.202442,Capalaba,Australia,1200,12,13225
+Sample Property 603,43.508042,-80.527595,Waterloo,Canada,1200,12,6476
+Sample Property 604,43.508042,-80.527595,Waterloo,Canada,1200,12,10856
+Sample Property 605,43.508042,-80.527595,Waterloo,Canada,1200,12,9507
+Sample Property 606,52.130781,5.037116,Maarssenbroek,Netherlands,1200,12,8289
+Sample Property 607,50.06414,5.6249,Bertogne,Belgium,1200,12,11477
+Sample Property 999,43.64325,-79.42214,Toronto,Canada,1200,12,6250
+Sample Property 1001,43.694443,-79.747743,Brampton,Canada,1200,12,8606
+Sample Property 1002,43.657295,-79.404249,Toronto,Canada,1200,12,14809
+Sample Property 1003,43.606958,79.585402,Mississauga,Canada,1200,12,12988
+Sample Property 1004,43.690369,-79.624036,Mississauga,Canada,1200,12,11993
+Sample Property 1005,43.648921,-79.395544,Toronto,Canada,1200,12,9696
+Sample Property 1006,43.653929,-79.380213,Toronto,Canada,1200,12,5911
+Sample Property 1007,43.612732,-79.555835,Etobicoke,Canada,1200,12,14116
+Sample Property 1008,43.593106,-79.642247,Mississauga,Canada,1200,12,13179
+Sample Property 1009,43.825703,-79.538917,Vaughan,Canada,1200,12,12237
+Sample Property 1010,43.665992,-79.437824,Toronto,Canada,1200,12,7231
+Sample Property 1011,53.538348,-113.615916,Edmonton,Canada,1200,12,9684
+Sample Property 1012,43.642845,-79.401671,Toronto,Canada,1200,12,8305
+Sample Property 1023,43.656885,-79.383904,Toronto,Canada,1200,12,12149
+Sample Property 1024,45.566973,-73.688307,Montreal,Canada,1200,12,12563
+Sample Property 1025,43.587571,-79.645281,Mississauga,Canada,1200,12,7453
+Sample Property 1026,43.024356,-81.278159,London,Canada,1200,12,10256
+Sample Property 1027,43.758395,-79.313897,Toronto,Canada,1200,12,8766
+Sample Property 1028,45.509432,-73.573566,Montreal,Canada,1200,12,10279
+Sample Property 1029,43.666761,-79.403346,Toronto,Canada,1200,12,12422
+Sample Property 1030,44.643482,-63.575693,Halifax,Canada,1200,12,8873
+Sample Property 1031,43.653226,-79.383184,Toronto,Canada,1200,12,9277
+Sample Property 1032,43.704869,-79.388782,Toronto,Canada,1200,12,10138
+Sample Property 1033,43.668647,-79.394462,Toronto,Canada,1200,12,10819
+Sample Property 1034,55.151004,-118.819552,Grande Prairie,Canada,1200,12,9137
+Sample Property 1035,45.372339,-75.769649,Ottawa,Canada,1200,12,10930
+Sample Property 1036,51.066852,-114.09263,Calgary,Canada,1200,12,11631
+Sample Property 1037,43.873699,-79.260617,Markham,Canada,1200,12,11684
+Sample Property 1038,43.805751,-79.384257,Toronto,Canada,1200,12,8563
+Sample Property 1039,51.045711,-114.074156,Calgary,Canada,1200,12,14352
+Sample Property 1040,53.518125,-113.504196,Edmonton,Canada,1200,12,9738
+Sample Property 1041,46.124041,-64.854912,Moncton,Canada,1200,12,5265
+Sample Property 1042,42.312199,-82.867674,St. Clair Beach,Canada,1200,12,14420
+Sample Property 1043,45.962026,-66.64393,Fredericton,Canada,1200,12,10645
+Sample Property 1044,44.648228,-63.620446,Halifax,Canada,1200,12,7626
+Sample Property 1045,53.544389,-113.490927,Edmonton,Canada,1200,12,13437
+Sample Property 1046,44.009795,-79.444874,Aurora,Canada,1200,12,6394
+Sample Property 1047,43.688372,-79.393497,Toronto,Canada,1200,12,12116
+Sample Property 1048,46.097399,-64.758084,Dieppe,Canada,1200,12,11765
+Sample Property 1049,46.091477,-64.692677,Dieppe,Canada,1200,12,13679
+Sample Property 1050,53.910431,-122.760715,Prince George,Canada,1200,12,8113
+Sample Property 1051,44.699249,-63.564757,Dartmouth,Canada,1200,12,12522
+Sample Property 1052,45.495612,-73.620988,Montreal,Canada,1200,12,6373
+Sample Property 1053,44.671449,-63.524856,Dartmouth,Canada,1200,12,7269
+Sample Property 1054,44.647273,-63.675165,Halifax,Canada,1200,12,11798
+Sample Property 1055,43.719318,-79.429862,Toronto,Canada,1200,12,14243
+Sample Property 1056,47.614548,-52.722359,St. Johns,Canada,1200,12,11735
+Sample Property 1057,43.706894,-79.781714,Brampton,Canada,1200,12,9369
+Sample Property 1058,49.882676,-119.452146,Kelowna,Canada,1200,12,5774
+Sample Property 1059,51.044459,-114.070884,Calgary,Canada,1200,12,14560
+Sample Property 1060,43.715182,-79.723874,Brampton,Canada,1200,12,6769
+Sample Property 1061,53.599785,-113.442834,Edmonton,Canada,1200,12,10048
+Sample Property 1062,45.47624,-73.622224,Montreal,Canada,1200,12,11374
+Sample Property 1063,43.774229,-79.498422,Toronto,Canada,1200,12,7003
+Sample Property 1064,53.518124,-113.479728,Edmonton,Canada,1200,12,14153
+Sample Property 1065,43.643909,-79.403182,Toronto,Canada,1200,12,9476
+Sample Property 1066,45.506857,-73.337771,Quebec,Canada,1200,12,7482
+Sample Property 1067,43.666642,-79.403819,Toronto,Canada,1200,12,11141
+Sample Property 1068,43.707232,-79.397072,Toronto,Canada,1200,12,9680
+Sample Property 1069,45.424866,-75.684295,Ottawa,Canada,1200,12,9241
+Sample Property 1070,43.648019,-79.378883,Toronto,Canada,1200,12,12562
+Sample Property 1071,43.807027,-79.449505,Thornhill,Canada,1200,12,13870
+Sample Property 1072,43.918214,-78.946461,Whitby,Canada,1200,12,14977
+Sample Property 1073,43.665514,-79.40929,Toronto,Canada,1200,12,12184
+Sample Property 1074,47.558796,-52.753485,St. Johns,Canada,1200,12,6752
+Sample Property 1075,49.261226,-123.113927,Vancouver,Canada,1200,12,5791
+Sample Property 1076,43.763101,-79.411005,Toronto,Canada,1200,12,10439
+Sample Property 1077,46.769396,-71.284291,Quebec,Canada,1200,12,6071
+Sample Property 1078,45.504193,-75.681385,Gatineau,Canada,1200,12,8709
+Sample Property 1079,45.568917,-73.752437,Laval,Canada,1200,12,7442
+Sample Property 1080,45.462906,-73.830675,Montreal,Canada,1200,12,10896
+Sample Property 1081,53.52312,-113.51204,Edmonton,Canada,1200,12,9050
+Sample Property 1082,43.822609,-79.533337,Vaughan,Canada,1200,12,8492
+Sample Property 1083,46.763572,-71.316153,Quebec,Canada,1200,12,6840
+Sample Property 1084,43.88284,-79.440281,Richmond Hill,Canada,1200,12,7131
+Sample Property 1085,45.42066,-75.695345,Ottawa,Canada,1200,12,8802
+Sample Property 1086,51.046473,-114.057859,Calgary,Canada,1200,12,8380
+Sample Property 1087,53.627985,-113.491384,Edmonton,Canada,1200,12,7605
+Sample Property 1088,53.599632,-113.531655,Edmonton,Canada,1200,12,6379
+Sample Property 1089,45.419427,-75.699658,Ottawa,Canada,1200,12,5626
+Sample Property 1090,53.546265,-113.524161,Edmonton,Canada,1200,12,9540
+Sample Property 1091,43.425481,-80.438326,Kitchener,Canada,1200,12,7155
+Sample Property 1092,49.891393,-97.146725,Winnipeg,Canada,1200,12,5511
+Sample Property 1093,45.504273,-73.57223,Montreal,Canada,1200,12,7180
+Sample Property 1094,53.468442,-113.583303,Edmonton,Canada,1200,12,10217
+Sample Property 1095,43.648684,-79.380233,Toronto,Canada,1200,12,5752
+Sample Property 1096,43.668978,-79.290213,Toronto,Canada,1200,12,5125
+Sample Property 1097,47.560777,-52.710744,St. Johns,Canada,1200,12,14065
+Sample Property 1098,51.075867,-113.990751,Calgary,Canada,1200,12,8490
+Sample Property 1099,45.500894,-73.561609,Montreal,Canada,1200,12,9530
+Sample Property 1100,45.425516,-75.719723,Gatineau,Canada,1200,12,12252
+Sample Property 1101,46.795222,-71.25329,Quebec,Canada,1200,12,5169
+Sample Property 1102,43.691331,-79.801916,Brampton,Canada,1200,12,9958
+Sample Property 1103,50.495812,-104.660567,Regina,Canada,1200,12,9159
+Sample Property 1104,50.450629,-104.610757,Regina,Canada,1200,12,11005
+Sample Property 1105,45.386957,-75.735381,Ottawa,Canada,1200,12,9849
+Sample Property 1106,45.48359,-73.860483,Montreal,Canada,1200,12,13872
+Sample Property 1107,50.966122,-114.071755,Calgary,Canada,1200,12,10668
+Sample Property 1108,45.478249,-75.516715,Ottawa,Canada,1200,12,10060
+Sample Property 1109,45.499918,-73.566459,Montreal,Canada,1200,12,11908
+Sample Property 1110,45.496689,-73.617707,Montreal,Canada,1200,12,6578
+Sample Property 1111,45.494822,-73.577875,Montreal,Canada,1200,12,6822
+Sample Property 1112,45.600528,-73.568552,Anjou,Canada,1200,12,6490
+Sample Property 1113,45.514567,-73.561972,Montreal,Canada,1200,12,12361
+Sample Property 1114,43.644916,-79.522276,Toronto,Canada,1200,12,5005
+Sample Property 1115,45.336747,-75.70584,Ottawa,Canada,1200,12,10740
+Sample Property 1116,43.228531,-79.941365,Ancaster,Canada,1200,12,9785
+Sample Property 1117,43.662288,-79.383152,Toronto,Canada,1200,12,12165
+Sample Property 1118,43.677341,-79.352823,Toronto,Canada,1200,12,14463
+Sample Property 1119,43.892501,-79.29149,Markham,Canada,1200,12,7003
+Sample Property 1120,43.728758,-79.402995,Toronto,Canada,1200,12,8772
+Sample Property 1121,43.697734,-79.396348,Toronto,Canada,1200,12,6642
+Sample Property 1122,53.681558,-113.240405,Fort Saskatchewan,Canada,1200,12,5416
+Sample Property 1123,45.361797,-75.73918,Nepean,Canada,1200,12,14213
+Sample Property 1124,43.71458,-79.400032,Toronto,Canada,1200,12,13908
+Sample Property 1125,45.194949,-75.395613,Ottawa,Canada,1200,12,8748
+Sample Property 1126,45.487667,-73.591525,Montreal,Canada,1200,12,12758
+Sample Property 1127,46.763424,-71.36997,Quebec,Canada,1200,12,12987
+Sample Property 1128,45.500343,-73.631381,Montreal,Canada,1200,12,14023
+Sample Property 1129,53.435114,-113.6061,Edmonton,Canada,1200,12,6547
+Sample Property 1130,51.036132,-114.166317,Calgary,Canada,1200,12,12579
+Sample Property 1131,43.67758,-79.719948,Brampton,Canada,1200,12,9615
+Sample Property 1132,43.192393,-79.806585,Stoney Creek,Canada,1200,12,9223
+Sample Property 1133,43.325318,-79.820889,Burlington,Canada,1200,12,12643
+Sample Property 1134,50.932046,-113.963722,Calgary ,Canada,1200,12,12196
+Sample Property 1135,43.262249,-79.905015,Hamilton,Canada,1200,12,7069
+Sample Property 1136,43.654111,-79.377415,Toronto,Canada,1200,12,7154
+Sample Property 1137,51.083981,-114.155116,Calgary,Canada,1200,12,11594
+Sample Property 1138,43.688683,-79.412669,Toronto,Canada,1200,12,7104
+Sample Property 1139,45.494459,-73.637587,Montreal,Canada,1200,12,6604
+Sample Property 1140,51.023824,-114.112067,Calgary,Canada,1200,12,9844
+Sample Property 1141,43.336255,-79.813075,Burlington,Canada,1200,12,8202
+Sample Property 1142,45.272955,-66.061704,Saint John ,Canada,1200,12,9720
+Sample Property 1143,45.504495,-73.381752,St Bruno,Canada,1200,12,11744
+Sample Property 1144,53.452877,-113.487207,Edmonton,Canada,1200,12,7895
+Sample Property 1145,53.54194,-113.494263,Edmonton,Canada,1200,12,8097
+Sample Property 1146,43.650446,-79.371689,Toronto,Canada,1200,12,8496
+Sample Property 1147,43.650714,-79.385859,Toronto,Canada,1200,12,11270
+Sample Property 1148,49.881293,-97.199564,Winnipeg,Canada,1200,12,13265
+Sample Property 1149,43.653226,-79.383184,Toronto,Canada,1200,12,6903
+Sample Property 1150,43.919979,-80.094311,Orangeville,Canada,1200,12,5560
+Sample Property 1151,53.559764,-113.56592,Edmonton,Canada,1200,12,11423
+Sample Property 1152,53.542742,-113.487553,Edmonton,Canada,1200,12,13673
+Sample Property 1153,43.20882,-79.890234,Hamilton,Canada,1200,12,5292
+Sample Property 1154,43.649724,-79.391065,Toronto,Canada,1200,12,5877
+Sample Property 1155,43.641757,-79.377601,Toronto,Canada,1200,12,12274
+Sample Property 1156,45.488509,-73.472012,Greenfield Park,Canada,1200,12,8413
+Sample Property 1157,45.38807,-73.962389,Ile Perot,Canada,1200,12,11502
+Sample Property 1158,43.634318,-79.519132,Toronto,Canada,1200,12,14575
+Sample Property 1159,45.943217,-66.671262,Fredericton,Canada,1200,12,8857
+Sample Property 1160,43.886259,-78.913134,Whitby,Canada,1200,12,12714
+Sample Property 1161,43.703598,-79.413656,Toronto,Canada,1200,12,14845
+Sample Property 1162,43.575502,-79.829531,Halton Hills,Canada,1200,12,13720
+Sample Property 1163,43.659071,-79.394214,Toronto,Canada,1200,12,5987
+Sample Property 1164,51.150456,-114.213613,Calgary,Canada,1200,12,6580
+Sample Property 1165,53.519554,-113.595183,Edmonton,Canada,1200,12,13848
+Sample Property 1166,45.504149,-73.568238,Montreal,Canada,1200,12,10747
+Sample Property 1167,43.861852,-79.712497,Bolton,Canada,1200,12,12320
+Sample Property 1168,51.05531,-114.085744,Calgary,Canada,1200,12,6334
+Sample Property 1169,45.391286,-75.755692,Ottawa,Canada,1200,12,6629
+Sample Property 1170,45.535027,-73.79069,Laval,Canada,1200,12,7717
+Sample Property 1171,45.726088,-73.61855,Mascouche,Canada,1200,12,13263
+Sample Property 1172,43.708561,-79.390402,Toronto,Canada,1200,12,10581
+Sample Property 1173,45.52797,-73.346407,St Bruno,Canada,1200,12,5241
+Sample Property 1174,45.499625,-73.573197,Montreal,Canada,1200,12,7328
+Sample Property 1175,45.590558,-73.539417,Montreal,Canada,1200,12,9775
+Sample Property 1176,43.646525,-79.389907,Toronto,Canada,1200,12,11409
+Sample Property 1177,43.560496,-79.70476,Mississauga,Canada,1200,12,14086
+Sample Property 1178,43.632553,-79.554218,Toronto,Canada,1200,12,5106
+Sample Property 1179,45.447262,-75.626632,Ottawa,Canada,1200,12,8375
+Sample Property 1180,45.468294,-73.543091,Montreal,Canada,1200,12,9002
+Sample Property 1181,43.678592,-79.544887,Toronto,Canada,1200,12,10270
+Sample Property 1182,43.657466,-79.403396,Toronto,Canada,1200,12,5178
+Sample Property 1183,49.833293,-119.616834,Westbank,Canada,1200,12,12310
+Sample Property 1184,43.788886,-79.544865,Woodbridge,Canada,1200,12,12705
+Sample Property 1185,45.51998,-73.554871,Montreal,Canada,1200,12,11046
+Sample Property 1186,44.646415,-63.593177,Halifax,Canada,1200,12,12122
+Sample Property 1187,51.048504,-114.067669,Calgary,Canada,1200,12,14577
+Sample Property 1188,45.453131,-75.511206,Orleans,Canada,1200,12,6574
+Sample Property 1189,45.482464,-73.630256,Montreal,Canada,1200,12,7645
+Sample Property 1190,45.485955,-73.79857,Montreal,Canada,1200,12,12362
+Sample Property 1191,51.049121,-114.069977,Calgary,Canada,1200,12,11233
+Sample Property 1192,46.820423,-71.248875,Quebec,Canada,1200,12,9466
+Sample Property 1193,45.347667,-75.806394,Ottawa,Canada,1200,12,13570
+Sample Property 1194,45.50257,-73.572583,Montreal,Canada,1200,12,7017
+Sample Property 1195,45.503752,-73.569278,Montreal,Canada,1200,12,13829
+Sample Property 1196,45.519513,-73.609316,Outremont,Canada,1200,12,7016
+Sample Property 1197,43.748033,-79.384221,Toronto,Canada,1200,12,12816
+Sample Property 1198,43.856611,-79.333409,Markham,Canada,1200,12,8145
+Sample Property 1199,43.817029,-79.119053,Pickering,Canada,1200,12,10111
+Sample Property 1200,43.660895,-79.3849,Toronto,Canada,1200,12,8266
+Sample Property 1201,45.532873,-73.574821,Montreal,Canada,1200,12,13295
+Sample Property 1202,43.865789,-79.29142,Markham,Canada,1200,12,8975
+Sample Property 1203,45.483836,-73.583006,Montreal,Canada,1200,12,9425
+Sample Property 1204,53.54333,-113.489746,Edmonton,Canada,1200,12,12265
+Sample Property 1205,43.532315,-80.233036,Guelph,Canada,1200,12,9050
+Sample Property 1206,52.319247,-114.074772,Red Deer,Canada,3400,12,12324
+Sample Property 1207,43.792263,-79.447323,Vaughan,Canada,3400,12,11224
+Sample Property 1208,43.706088,-79.375151,Toronto,Canada,3400,12,14874
+Sample Property 1209,51.048953,-114.0659,Calgary,Canada,3400,12,14319
+Sample Property 1210,52.24314,-113.809822,Red Deer,Canada,3400,12,9746
+Sample Property 1211,51.049504,-114.064321,Calgary,Canada,3400,12,7816
+Sample Property 1212,43.581048,-79.712688,Mississauga,Canada,3400,12,11199
+Sample Property 1213,51.046194,-114.071332,Calgary,Canada,3400,12,8061
+Sample Property 1214,53.467852,-113.494813,Edmonton,Canada,3400,12,11058
+Sample Property 1215,43.805349,-79.436868,Thornhill,Canada,3400,12,7336
+Sample Property 1216,43.559467,-79.707906,Mississauga,Canada,3400,12,11749
+Sample Property 1217,53.603461,-115.283845,Edmonton,Canada,3400,12,11105
+Sample Property 1218,43.398929,-79.706807,Burlington,Canada,3400,12,13448
+Sample Property 1219,43.780113,-79.41337,Toronto,Canada,3400,12,9498
+Sample Property 1220,51.066393,-114.10741,Calgary,Canada,3400,12,9628
+Sample Property 1221,51.018759,-114.169582,Calgary,Canada,3400,12,8704
+Sample Property 1222,53.543258,-113.494267,Edmonton,Canada,3400,12,9460
+Sample Property 1223,53.251404,-110.005495,Lloydminster,Canada,3400,12,8831
+Sample Property 1224,45.513581,-73.69345,St Laurent,Canada,3400,12,9190
+Sample Property 1225,43.642553,-79.377643,Toronto,Canada,3400,12,6603
+Sample Property 1226,51.048328,-114.073448,Calgary,Canada,3400,12,14768
+Sample Property 1227,43.612535,-79.693859,Mississauga,Canada,3400,12,14279
+Sample Property 1228,43.66626,-79.399293,Toronto,Canada,3400,12,10619
+Sample Property 1229,49.898449,-97.061881,Winnipeg,Canada,3400,12,12713
+Sample Property 1230,43.650698,-79.527356,Toronto,Canada,3400,12,5602
+Sample Property 1231,43.653929,-79.380213,Toronto,Canada,3400,12,14682
+Sample Property 1232,49.827927,-97.109088,Winnipeg,Canada,3400,12,5225
+Sample Property 1233,43.665488,-79.380856,Toronto,Canada,3400,12,14305
+Sample Property 1234,43.744582,-79.405636,Toronto,Canada,3400,12,5237
+Sample Property 1235,44.389356,-79.690332,Barrie,Canada,3400,12,10961
+Sample Property 1236,45.495137,-73.408942,St-Hubert,Canada,3400,12,6616
+Sample Property 1237,53.54074,-113.498317,Edmonton,Canada,3400,12,8244
+Sample Property 1238,43.712363,-79.364308,Toronto,Canada,3400,12,13476
+Sample Property 1239,51.048953,-114.0659,Calgary,Canada,3400,12,10217
+Sample Property 1240,49.878981,-97.146123,Winnipeg,Canada,3400,12,10920
+Sample Property 1241,43.64517,-79.522412,Toronto,Canada,3400,12,9921
+Sample Property 1242,43.444101,-79.669944,Oakville,Canada,3400,12,11475
+Sample Property 1243,53.54212,-113.611915,Edmonton,Canada,3400,12,10318
+Sample Property 1244,53.521366,-113.578006,Edmonton,Canada,3400,12,13886
+Sample Property 1245,43.756551,-79.360779,Toronto,Canada,3400,12,14711
+Sample Property 1246,43.669742,-79.389422,Toronto,Canada,3400,12,13535
+Sample Property 1247,44.389449,-79.687402,Barrie,Canada,3400,12,8207
+Sample Property 1248,46.812837,-71.214921,Quebec,Canada,3400,12,7278
+Sample Property 1249,50.96132,-114.103984,Calgary,Canada,3400,12,13664
+Sample Property 1250,43.64401,-79.386971,Toronto,Canada,3400,12,7436
+Sample Property 1251,51.037835,-114.126771,Calgary,Canada,3400,12,10651
+Sample Property 1252,43.88284,-79.440281,Richmond Hill,Canada,3400,12,7036
+Sample Property 1253,53.484718,-113.494969,Edmonton,Canada,3400,12,6784
+Sample Property 1254,45.467002,-75.700535,Gatineau,Canada,3400,12,9936
+Sample Property 1255,53.425172,-113.479224,Edmonton,Canada,3400,12,12668
+Sample Property 1256,50.91556,-113.960202,Calgary,Canada,3400,12,14811
+Sample Property 1257,53.45396,-113.565393,Edmonton,Canada,3400,12,8500
+Sample Property 1258,43.843437,-79.081848,Pickering,Canada,3400,12,12323
+Sample Property 1259,51.10127,-114.140417,Calgary,Canada,3400,12,12010
+Sample Property 1260,53.457943,-113.58242,Edmonton,Canada,3400,12,6031
+Sample Property 1261,51.178363,-115.570769,Banff,Canada,3400,12,9127
+Sample Property 1262,45.495137,-73.408942,St-Hubert,Canada,3400,12,5466
+Sample Property 1263,43.6631,-79.402004,Toronto ,Canada,3400,12,8646
+Sample Property 1264,43.133638,-79.22431,St. Catharines,Canada,3400,12,9269
+Sample Property 1265,43.75375,-79.357066,Toronto,Canada,3400,12,9149
+Sample Property 1266,43.650246,-79.480905,Toronto,Canada,3400,12,5611
+Sample Property 1267,53.540716,-113.442553,Edmonton,Canada,3400,12,13429
+Sample Property 1268,55.144884,-118.811697,Grande Prairie,Canada,3400,12,9299
+Sample Property 1269,43.082455,-79.0813,Niagara Falls,Canada,3400,12,12531
+Sample Property 1270,51.200348,-113.996029,Rocky View,Canada,3400,12,14852
+Sample Property 1271,43.66886,-79.386331,Toronto,Canada,3400,12,14252
+Sample Property 1272,43.88284,-79.440281,Richmond Hill,Canada,3400,12,13931
+Sample Property 1273,43.641944,-79.412316,Toronto,Canada,3400,12,14750
+Sample Property 1274,43.55306,-79.583747,Mississauga,Canada,3400,12,14139
+Sample Property 1275,53.277783,-113.548244,Leduc,Canada,3400,12,5008
+Sample Property 1276,43.661438,-79.727279,Brampton,Canada,3400,12,9898
+Sample Property 1277,51.073385,-113.987693,Calgary,Canada,3400,12,7849
+Sample Property 1278,43.653226,-79.383184,Toronto,Canada,3400,12,13928
+Sample Property 1279,43.21735,-79.86192,Hamilton,Canada,3400,12,7617
+Sample Property 1280,43.662369,-79.519264,Toronto,Canada,3400,12,13902
+Sample Property 1281,53.628635,-113.421795,Edmonton,Canada,3400,12,8400
+Sample Property 1282,43.776875,-79.256655,Toronto,Canada,3400,12,11927
+Sample Property 1283,53.541345,-113.298672,Sherwood Park,Canada,3400,12,7017
+Sample Property 1284,43.662532,-79.398678,Toronto,Canada,3400,12,6080
+Sample Property 1285,43.575891,-79.645196,Mississauga,Canada,3400,12,6542
+Sample Property 1286,45.455927,-73.640723,Montreal,Canada,3400,12,12715
+Sample Property 1287,43.849005,-79.459068,Maple,Canada,3400,12,12398
+Sample Property 1288,43.648728,-79.385133,Toronto,Canada,3400,12,13680
+Sample Property 1289,53.535036,-113.615618,Edmonton,Canada,3400,12,9867
+Sample Property 1290,43.613616,-79.560597,Toronto,Canada,3400,12,13675
+Sample Property 1291,43.645334,-79.382522,Toronto,Canada,3400,12,12006
+Sample Property 1292,43.605304,-79.650811,Mississauga,Canada,3400,12,5304
+Sample Property 1293,45.503126,-73.574075,Montreal,Canada,3400,12,5232
+Sample Property 1294,50.99612,-114.071853,Calgary,Canada,3400,12,13014
+Sample Property 1295,44.067936,-79.483699,Newmarket,Canada,3400,12,8048
+Sample Property 1296,45.526492,-73.580386,Montreal,Canada,3400,12,12584
+Sample Property 1297,45.477245,-75.698708,Gatineau,Canada,3400,12,9245
+Sample Property 1298,43.648397,-79.373607,Toronto,Canada,3400,12,6461
+Sample Property 1299,43.689657,-79.394851,Toronto,Canada,3400,12,8186
+Sample Property 1300,53.542785,-113.903367,Spruce Grove,Canada,3400,12,7055
+Sample Property 1301,43.647499,-79.384482,Toronto,Canada,3400,12,12858
+Sample Property 1302,53.619852,-113.609394,St. Albert,Canada,3400,12,13076
+Sample Property 1303,45.42075,-75.695425,Ottawa,Canada,3400,12,14561
+Sample Property 1304,45.418961,-75.691469,Ottawa,Canada,3400,12,10239
+Sample Property 1305,45.425023,-75.690965,Ottawa,Canada,3400,12,13787
+Sample Property 1306,45.441622,-75.732481,Gatineau,Canada,3400,12,6030
+Sample Property 1307,45.301311,-75.87724,Kanata,Canada,3400,12,9092
+Sample Property 1308,45.514809,-73.574257,Montreal,Canada,3400,12,7150
+Sample Property 1309,45.427212,-75.689513,Ottawa,Canada,3400,12,10402
+Sample Property 1310,45.440024,-75.676283,Ottawa,Canada,3400,12,8857
+Sample Property 1311,45.42153,-75.697193,Ottawa,Canada,3400,12,8928
+Sample Property 1312,45.415447,-75.69656,Ottawa,Canada,3400,12,7592
+Sample Property 1313,43.76413,-79.411716,Toronto,Canada,3400,12,9561
+Sample Property 1314,43.593042,-79.642794,Mississauga,Canada,3400,12,10828
+Sample Property 1315,53.645609,-113.622816,St. Albert,Canada,3400,12,7799
+Sample Property 1316,49.334897,-123.166785,West Vancouver,Canada,3400,12,5496
+Sample Property 1317,43.656224,-79.435577,Toronto,Canada,3400,12,5215
+Sample Property 1318,53.503485,-113.625519,Edmonton,Canada,3400,12,14671
+Sample Property 1319,43.660978,-79.384609,Toronto,Canada,3400,12,12303
+Sample Property 1320,53.54112,-113.51449,Edmonton,Canada,3400,12,10403
+Sample Property 1321,43.47239,-80.535376,Waterloo,Canada,3400,12,5146
+Sample Property 1322,53.54095,-113.491151,Edmonton,Canada,3400,12,10341
+Sample Property 1323,53.523193,-113.61552,Edmonton,Canada,3400,12,14512
+Sample Property 1324,44.732444,-63.656461,Bedford ,Canada,3400,12,14044
+Sample Property 1325,53.519168,-113.52044,Edmonton,Canada,3400,12,6960
+Sample Property 1326,45.344884,-75.729493,Nepean,Canada,3400,12,7218
+Sample Property 1327,49.870836,-97.152962,Winnipeg,Canada,3400,12,11919
+Sample Property 1328,43.783378,-79.300194,Toronto,Canada,3400,12,5942
+Sample Property 1329,50.90186,-114.064658,Calgary,Canada,3400,12,9664
+Sample Property 1330,43.732387,-79.455239,Downsview,Canada,3400,12,9459
+Sample Property 1331,43.768698,-79.413163,Toronto,Canada,3400,12,5007
+Sample Property 1332,45.499062,-73.573856,Montreal,Canada,3400,12,5117
+Sample Property 1333,49.285389,-123.126057,Vancouver,Canada,3400,12,8954
+Sample Property 2000,39.747981,-105.00015,Denver,USA,3400,12,6310
+Sample Property 2001,39.747981,-105.00015,Denver,USA,3400,12,12361
+Sample Property 2002,39.747981,-105.00015,Denver,USA,3400,12,10063
+Sample Property 2003,39.762179,-105.013364,Denver,USA,3400,12,8492
+Sample Property 2004,39.753636,-104.991667,Denver,USA,3400,12,8183
+Sample Property 2005,39.753141,-104.991936,Denver,USA,3400,12,11561
+Sample Property 2006,39.678498,-104.967235,Denver,USA,3400,12,9643
+Sample Property 2007,39.762394,-104.982301,Denver,United States,3400,12,7016
+Sample Property 3000,34.001443,-118.313141,Los Angeles,USA,3400,12,5405
+Sample Property 3001,-33.890844,151.274291,Sydney,Australia,3400,12,7671
+Sample Property 3002,32.3078,-64.7505,Bermuda,United Kingdom,3400,12,14664
+Sample Property 9991,40.753641,-73.986652,New York,USA,3400,12,8507
+Sample Property 9993,43.643248,-79.422078,Toronto,Canada,3400,12,6211
+Sample Property 9994,43.658896,-79.349192,Toronto,Canada,3400,12,14770
+Sample Property 1234568,40.719529,-73.984801,New York,New York,3400,12,14416
+Sample Property 1234571,43.644473,-79.419112,Toronto,Canada,3400,12,13849
+Sample Property 1234572,43.64352,-79.422798,Toronto,Canada,3400,12,9887
+Sample Property 1234573,43.668691,-79.395277,Toronto,Canada,3400,12,7646
+Sample Property 1234574,43.644996,-79.384148,Toronto,Canada,3400,12,10793
+Sample Property 1234575,43.650388,-79.384459,Toronto,Canada,3400,12,11263
+Sample Property 1234576,43.700171,-79.430068,Toronto,Canada,3400,12,5013
+Sample Property 1234577,43.848788,-79.377642,Richmond Hill,Canada,3400,12,7626
+Sample Property 1234578,43.667302,-79.312767,Toronto,Canada,3400,12,13888
+Sample Property 1234590,43,-79,Toronto,Canada,3400,12,13500
+Sample Property 4234331,43.670543,-79.385264,Toronto,Canada,3400,12,5883
+Sample Property 4234332,43.671353,-79.390966,Toronto,Canada,3400,12,13214
+Sample Property 4234333,45.498105,-73.575458,Montreal,Canada,3400,12,14500
+Sample Property 4234339,3.043901,101.58065,Selangor,Malaysia,3400,12,10830
+Sample Property 4234340,3.043901,101.58065,Selangor,Malaysia,3400,12,9137
+Sample Property 4234341,3.043901,101.58065,Selangor,Malaysia,3400,12,10026
+Sample Property 4234342,43.509319,-79.674783,Oakville,Canada,3400,12,5130
+Sample Property 4234343,43.509319,-79.674783,Oakville,Canada,3400,12,9589
+Sample Property 4234344,43.65448,-79.40201,Toronto,Canada,3400,12,10267
+Sample Property 4234345,43.649279,-79.485035,Toronto,Canada,3400,12,7249
+Sample Property 4234349,30.321184,-97.726394,,,3400,12,6639
+Sample Property 4234352,43.64660727,-79.40723777,Toronto,Canada,3400,12,13280
+Sample Property 4234353,21.1708906,-86.8403165,Cancun,Mexico,3400,12,13897
+Sample Property 4234354,21.1708906,-86.8403165,Cancun,Mexico,3400,12,14907
+Sample Property 4234355,21.1708906,-86.8403165,Cancun,Mexico,3400,12,7224
+Sample Property 4234356,21.1708906,-86.8403165,Cancun,Mexico,3400,12,14191
+Sample Property 4234357,21.1708906,-86.8403165,Cancun,Mexico,3400,12,11668
+Sample Property 4234358,21.1708906,-86.8403165,Cancun,Mexico,3400,12,9234
+Sample Property 4234359,44.0554016,-79.4806405,Newmarket,Canada,3400,12,11971
+Sample Property 4234361,53.7996878,-1.5509014,Leeds,United Kingdom,3400,12,10407
+Sample Property 4234362,53.7996878,-1.5509014,Leeds,United Kingdom,3400,12,10800
+Sample Property 4234363,30.27382682,-97.76362137,Austin,United States,3400,12,7671
+Sample Property 4234366,30.27382682,-97.76362137,Austin,United States,3400,12,5390
+Sample Property 4234369,30.27382682,-97.76362137,Austin,United States,3400,12,7400
+Sample Property 4234371,5.415388569,100.3393364,Gelugor,Canada,3400,12,5193
+Sample Property 4234372,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,10782
+Sample Property 4234373,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,14161
+Sample Property 4234374,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,13084
+Sample Property 4234375,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,7956
+Sample Property 4234376,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,14066
+Sample Property 4234377,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,11545
+Sample Property 4234378,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,6325
+Sample Property 4234379,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,12074
+Sample Property 4234380,5.3675141,100.3121321,Gelugor,Malaysia,3400,12,13182
+Sample Property 4234384,39.7554286,-104.9967293,Denver,United States,3400,12,12441
+Sample Property 4234388,43.643372,-79.4221617,Toronto,Canada,3400,12,13334
+Sample Property 4234391,26.08030187,-80.28659167,Davie,United States,3400,12,10891
+Sample Property 4234392,43.63996134,-79.39396083,Toronto,Canada,3400,12,11397
+Sample Property 4234393,43.64333552,-79.42231462,Toronto,Canada,3400,12,14230
+Sample Property 4234399,42.9611986,-81.2398064,London,Canada,3400,12,6625
+Sample Property 4234400,3.043901,101.58065,Selangor,Malaysia,3400,12,8022
+Sample Property 4234401,39.7554286,-104.9967293,Denver,United States,3400,12,12384
+Sample Property 4234402,39.7554286,-104.9967293,Denver,United States,3400,12,6003
+Sample Property 4234403,39.7554286,-104.9967293,Denver,United States,3400,12,10484
+Sample Property 4234404,43.64555515,-79.38610322,Toronto,Canada,3400,12,12071
+Sample Property 4234405,45.35412814,-75.78014553,Ottawa,Canada,3400,12,9841
+Sample Property 4234406,45.50502353,-73.37785721,St-bruno,Canada,3400,12,9298
+Sample Property 4234407,43.7012845,-79.6389232,Mississauga,Canada,3400,12,6334
+Sample Property 4234408,43.7012845,-79.6389232,Mississauga,Canada,3400,12,14814
+Sample Property 4234409,43.7012845,-79.6389232,Mississauga,Canada,3400,12,14899
+Sample Property 4234410,43.7012845,-79.6389232,Mississauga,Canada,3400,12,5495
+Sample Property 4234411,43.7012845,-79.6389232,Mississauga,Canada,3400,12,8723
+Sample Property 4234412,43.7012845,-79.6389232,Mississauga,Canada,3400,12,6321
+Sample Property 4234413,43.7012845,-79.6389232,Mississauga,Canada,3400,12,14747
+Sample Property 4234414,43.7012845,-79.6389232,Mississauga,Canada,3400,12,13068
+Sample Property 4234415,43.7012845,-79.6389232,Mississauga,Canada,3400,12,13320
+Sample Property 4234416,43.7012845,-79.6389232,Mississauga,Canada,3400,12,14804
+Sample Property 4234417,43.7012845,-79.6389232,Mississauga,Canada,3400,12,8493
+Sample Property 4234418,43.7012845,-79.6389232,Mississauga,Canada,3400,12,11106
+Sample Property 4234419,31.26769362,120.7436085,Suzhou,China,3400,12,13338
+Sample Property 4234420,43.3369522,-79.8832786,Waterdown,Canada,3400,12,10847
+Sample Property 4234421,42.528574,-83.2081225,Beverly Hills,United States,3400,12,6121
+Sample Property 4234422,8.972914659,-79.51593161,Panama,Panama,3400,12,12486
+Sample Property 4234423,50.1319957,-122.9509202,Whistler,Canada,3400,12,13593
+Sample Property 4234424,43.666095,-79.3810974,Toronto,Canada,3400,12,8299
+Sample Property 4234425,43.6633982,-79.3721331,Toronto,Canada,3400,12,12589
+Sample Property 4234426,45.2780145,-66.055875,St. John,Canada,3400,12,12331
+Sample Property 4234427,43.64336592,-79.42210257,Toronto,Canada,3400,12,9227
+Sample Property 4234428,51.0679619,3.7327418,Gent,Belgium,3400,12,9007
+Sample Property 4234429,51.0657458,3.7340927,Gent,Belgium,3400,12,12897
+Sample Property 4234430,51.0558119,3.7239194,Gent,Belgium,3400,12,9658
+Sample Property 4234431,43.6494991,-79.37139809,Toronto,Canada,3400,12,10957
+Sample Property 4234432,3.1115485,101.4311886,Klang,Malaysia,3400,12,5817
+Sample Property 4234433,15.7833,47.8667,,,3400,12,13142
+Sample Property 4234434,3.1055929,101.642697,Petaling Jaya,Malaysia,3400,12,7275
+Sample Property 4234435,43.6392284,-79.4143449,Toronto,Canada,3400,12,8176
+Sample Property 4234436,47.55818211,-52.71263838,St. Johns,Canada,3400,12,5616
+Sample Property 4234437,43.77882715,-79.4853732,Toronto,Canada,3400,12,14522
+Sample Property 4234438,43.77878067,-79.48559314,Toronto,Canada,3400,12,11374
+Sample Property 4234439,3.1055929,101.642697,Petaling Jaya,Malaysia,3400,12,10412
+Sample Property 4234440,40.7566991,-73.9703516,New York,United States,3400,12,6296
+Sample Property 4234441,43.65348505,-79.38830878,Toronto,Canada,3400,12,6666
+Sample Property 4234442,43.1450748,-79.2594459,St. Catharines,Canada,3400,12,8709
+Sample Property 4234443,43.66787161,-79.39682007,Toronto,Canada,1300,12,12384
+Sample Property 4234444,43.6529206,-79.3849008,Toronto,Canada,1300,12,7924
+Sample Property 4234445,3.1570976,101.7009528,Kuala Lumpur,Malaysia,1300,12,5557
+Sample Property 4234446,3.14912895,101.7132726,Kuala Lumpur,Malaysia,1300,12,10572
+Sample Property 4234447,43.6489865,-79.3958395,Toronto,Canada,1300,12,7992
+Sample Property 4234448,43.6732023,-79.4143543,Toronto,Canada,1300,12,8044
+Sample Property 4234449,43.6526175,-79.3780161,Toronto,Canada,1300,12,8492
+Sample Property 4234450,43.6510891,-79.5265439,Toronto,Canada,1300,12,10609
+Sample Property 4234451,43.66471555,-79.37415508,Toronto,Canada,1300,12,11309
+Sample Property 4234452,43.6552509,-79.4192438,Toronto,Canada,1300,12,11450
+Sample Property 4234453,43.65896819,-79.34881488,Toronto,Canada,1300,12,6711
+Sample Property 4234454,43.6467323,-79.3955285,Toronto,Canada,1300,12,12430
+Sample Property 4234455,43.6496368,-79.4206912,Toronto,Canada,1300,12,7070
+Sample Property 4234456,43.6431975,-79.4244927,Toronto,Canada,1300,12,11125
+Sample Property 4234457,43.643372,-79.4221617,Toronto,Canada,1300,12,9620
+Sample Property 4234458,43.64142613,-79.4318843,Toronto,Canada,1300,12,7544
+Sample Property 4234459,43.666095,-79.3810974,Toronto,Canada,1300,12,6084
+Sample Property 4234460,40.7574967,-73.9703481,New York,United States,1300,12,14845
+Sample Property 4234461,42.9611986,-81.2398064,London,Canada,1300,12,14947
+Sample Property 4234462,43.155409,-79.050193,,,1300,12,7446
+Sample Property 4234463,46.8267063,-71.1617477,Davie,Canada,1300,12,6182
+Sample Property 4234464,3.078766153,101.6116047,Petaling Jaya,Malaysia,1300,12,9417
+Sample Property 4234465,51.30089981,-116.9675034,Golden,Canada,1300,12,8209
+Sample Property 4234466,47.55830881,-52.71282345,St. Johns,Canada,1300,12,5231
+Sample Property 4234467,47.56123379,-52.71117389,St Johns,Canada,1300,12,9586
+Sample Property 4234468,47.56122655,-52.71124899,St Johns,Canada,1300,12,7622
+Sample Property 4234469,47.56143469,-52.71118194,St Johns,Canada,1300,12,14523
+Sample Property 4234470,47.56211885,-52.71026462,St Johns,Canada,1300,12,8263
+Sample Property 4234471,47.56179306,-52.71072328,St Johns,Canada,1300,12,13073
+Sample Property 4234760,47.56209532,-52.71010637,St Johns,Canada,1300,12,8157
+Sample Property 4234761,43.643372,-79.4221617,Toronto,Canada,1300,12,6302
+Sample Property 4234762,43.6529206,-79.3849008,Toronto,Canada,1300,12,12121
+Sample Property 4234765,47.5613026,52.7111477,St Johns,Canada,1300,12,10806
+Sample Property 4234766,47.56218944,-52.70993471,St Johns,Canada,1300,12,14932
+Sample Property 4234767,47.56226183,-52.70975769,St Johns,Canada,1300,12,11163
+Sample Property 4234768,47.56185822,-52.71049529,St Johns,Canada,1300,12,10006
+Sample Property 4234769,47.5613822,-52.71112561,St Johns,Canada,1300,12,6798
+Sample Property 4234770,47.45228162,-122.2481772,Tukwila,United States,1300,12,11894
+Sample Property 4234773,-22.9112163,-43.2093781,Rio De Janeiro,Brazil,1300,12,6796
+Sample Property 4234774,1.3169991,103.9195871,Siglap,Singapore,1300,12,6589
+Sample Property 4234775,42.43017215,-88.08679104,Lake Villa,United States,1300,12,7784
+Sample Property 4234776,41.9641987,-87.6854801,Chicago,United States,1300,12,7650
+Sample Property 4234777,-22.9112163,-43.2093781,Rio De Janeiro,Brazil,1300,12,10990
+Sample Property 4234778,-26.205,28.0497222,Johannesburg,South Africa,1300,12,9790
+Sample Property 4234779,-26.05199012,28.0230546,Johannesburg,South Africa,1300,12,7495
+Sample Property 4234780,43.6569232,-79.40319685,Toronto,Canada,1300,12,12630
+Sample Property 4234781,43.6577192,-79.3765268,Toronto,Canada,1300,12,9203
+Sample Property 4234782,43.6377542,-79.4086316,Toronto,Canada,1300,12,6803
+Sample Property 4234783,43.6377542,-79.4086316,Toronto,Canada,1300,12,9972
+Sample Property 4234784,43.6377542,-79.4086316,Toronto,Canada,1300,12,5225
+Sample Property 4234785,43.6377542,-79.4086316,Toronto,Canada,1300,12,5152
+Sample Property 4234786,43.6377542,-79.4086316,Toronto,Canada,1300,12,9456
+Sample Property 4234787,43.6377542,-79.4086316,Toronto,Canada,1300,12,11926
+Sample Property 4234788,43.6377542,-79.4086316,Toronto,Canada,1300,12,14233
+Sample Property 4234789,43.6377542,-79.4086316,Toronto,Canada,1300,12,14495
+Sample Property 4234790,43.6377542,-79.4086316,Toronto,Canada,1300,12,10559
+Sample Property 4234791,43.6377542,-79.4086316,Toronto,Canada,1300,12,7555
+Sample Property 4234792,37.79083695,-122.4021095,San Francisco,United States,1300,12,6315
+Sample Property 4234793,37.7904453,-122.4009771,San Francisco,Canada,1300,12,12672
+Sample Property 4234794,43.65093353,-79.45064624,Toronto,Canada,1300,12,11982
+Sample Property 4234795,19.43458353,-99.18727398,Mexico City,Mexico,1300,12,10813
+Sample Property 4234796,-29.52408337,31.20020628,Balito,South Africa,1300,12,6704
+Sample Property 4234797,43.776875,-79.256655,Toronto,Canada,1300,12,8398
+Sample Property 4234798,43.776875,-79.256655,Toronto,Canada,1300,12,14408
+Sample Property 4234799,43.776875,-79.256655,Toronto,Canada,1300,12,9925
+Sample Property 4234800,43.776875,-79.256655,Toronto,Canada,1300,12,13721
+Sample Property 4234801,43.776875,-79.256655,Toronto,Canada,1300,12,10321
+Sample Property 4234802,43.776875,-79.256655,Toronto,Canada,1300,12,7039
+Sample Property 4234803,43.776875,-79.256655,Toronto,Canada,1300,12,13003
+Sample Property 4234804,43.776875,-79.256655,Toronto,Canada,1300,12,9606
+Sample Property 4234805,43.776875,-79.256655,Toronto,Canada,1300,12,11301
+Sample Property 4234806,43.776875,-79.256655,Toronto,Canada,1300,12,14067
+Sample Property 4234807,43.776875,-79.256655,Toronto,Canada,1300,12,10964
+Sample Property 4234808,43.776875,-79.256655,Toronto,Canada,1300,12,8005
+Sample Property 4234809,43.776875,-79.256655,Toronto,Canada,1300,12,9813
+Sample Property 4234810,43.776875,-79.256655,Toronto,Canada,1300,12,9945
+Sample Property 4234811,43.776875,-79.256655,Toronto,Canada,1300,12,14721
+Sample Property 4234812,43.776875,-79.256655,Toronto,Canada,1300,12,13534
+Sample Property 4234813,43.776875,-79.256655,Toronto,Canada,1300,12,12965
+Sample Property 4234814,43.776875,-79.256655,Toronto,Canada,1300,12,10990
+Sample Property 4234815,43.776875,-79.256655,Toronto,Canada,1300,12,5872
+Sample Property 4234816,43.776875,-79.256655,Toronto,Canada,1300,12,10977
+Sample Property 4234817,43.776875,-79.256655,Toronto,Canada,1300,12,11669
+Sample Property 4234818,43.776875,-79.256655,Toronto,Canada,1300,12,13041
+Sample Property 4234819,43.776875,-79.256655,Toronto,Canada,1300,12,13564
+Sample Property 4234820,47.56117949,-52.71102905,St Johns,Canada,1300,12,7780
+Sample Property 4234821,47.56225097,-52.71014929,St Johns,Canada,1300,12,14692
+Sample Property 4234822,-26.05294676,28.02052259,Johannesburg,South Africa,1300,12,13532
+Sample Property 4234823,-26.02400792,28.01402092,Johannesburg,South Africa,1300,12,12415
+Sample Property 4234824,-26.02418146,28.01221848,Johannesburg,South Africa,1300,12,9075
+Sample Property 4234825,-26.11438676,28.04949045,Johannesburg,South Africa,1300,12,10128
+Sample Property 4234826,43.776875,-79.256655,Toronto,Canada,1300,12,5412
+Sample Property 4234827,-25.87065398,28.18804264,Pretoria,South Africa,1300,12,5871
+Sample Property 4234828,43.643372,-79.4221617,Toronto,Canada,1300,12,13048
+Sample Property 4234829,50.9011289,-114,Calgary,Canada,1300,12,9102
+Sample Property 4234830,45.59205936,-73.54179382,Montreal,Canada,1300,12,10041
+Sample Property 4234831,19.40034221,-99.16796207,Mexico D.f.,Mexico,1300,12,5360
+Sample Property 4234832,47.56197587,-52.71078229,St Johns,Canada,1300,12,8040
+Sample Property 4234833,40.757516,-73.9703857,New York,United States,1300,12,14656
+Sample Property 4234834,43.25951846,-79.86330986,Hamilton,Canada,1300,12,7580
+Sample Property 4234835,43.776875,-79.256655,Toronto,Canada,1300,12,10723
+Sample Property 4234836,45.504861,-73.5666749,Montreal,Canada,1300,12,8952
+Sample Property 4234837,45.5224507,-73.5912827,Montreal,Canada,1300,12,14900
+Sample Property 4234838,43.776875,-79.256655,Toronto,Canada,1300,12,11642
+Sample Property 4234839,43.6529206,-79.3849008,Toronto,Canada,1300,12,14844
+Sample Property 4234840,47.56135324,-52.71079302,St Johns,Canada,1300,12,12296
+Sample Property 4234841,47.56165732,-52.71103978,St Johns,Canada,1300,12,5231
+Sample Property 4234842,47.56232337,-52.70999908,St Johns,Canada,1300,12,9413
+Sample Property 4234843,47.56189623,-52.71034241,St Johns,Canada,1300,12,6006
+Sample Property 4234844,47.56171523,-52.7105999,St Johns,Canada,1300,12,8063
+Sample Property 4234845,47.56168627,-52.7104497,St Johns,Canada,1300,12,11144
+Sample Property 4234846,47.56189623,-52.71066427,St Johns,Canada,1300,12,9875
+Sample Property 4234847,47.56196863,-52.7105999,St Johns,Canada,1300,12,14805
+Sample Property 4234848,47.56117225,-52.71099687,St Johns,Canada,1300,12,10250
+Sample Property 4234849,47.56117225,-52.71099687,Caledonia,Canada,1300,12,11939
+Sample Property 4234850,47.56117225,-52.71099687,Toronto,Canada,1300,12,12179
+Sample Property 4234851,47.56117225,-52.71099687,Toronto,Canada,1300,12,14551
+Sample Property 4234852,47.56117225,-52.71099687,Toronto,Canada,1300,12,14948
+Sample Property 4234853,47.56117225,-52.71099687,Toronto,Canada,1300,12,5957
+Sample Property 4234854,47.56117225,-52.71099687,Toronto,Canada,1300,12,7270
+Sample Property 4234855,47.56117225,-52.71099687,Toronto,Canada,1300,12,11386
+Sample Property 4234856,47.56117225,-52.71099687,Toronto,Canada,1300,12,9099
+Sample Property 4234857,47.56117225,-52.71099687,Toronto,Canada,1300,12,14063
+Sample Property 4234858,47.56117225,-52.71099687,Toronto,Canada,1300,12,11453
+Sample Property 4234859,47.56117225,-52.71099687,Toronto,Canada,1300,12,12818
+Sample Property 4234860,47.56117225,-52.71099687,Toronto,Canada,1300,12,11542
+Sample Property 4234861,47.56117225,-52.71099687,Toronto,Canada,1300,12,9666
+Sample Property 4234862,53.7656608,-1.5336255,Leeds,United Kingdom,1300,12,9737
+Sample Property 4234864,43.776875,-79.256655,Toronto,Canada,1300,12,12125
+Sample Property 4234865,43.643372,-79.4221617,Toronto,Canada,1300,12,7739
+Sample Property 4234866,47.56117225,-52.71099687,Toronto,Canada,1300,12,13036
+Sample Property 4234867,47.56117225,-52.71099687,Toronto,Canada,1300,12,7858
+Sample Property 4234868,47.56117225,-52.71099687,Toronto,Canada,1300,12,13594
+Sample Property 4234869,47.56117225,-52.71099687,Toronto,Canada,1300,12,9124
+Sample Property 4234870,47.56117225,-52.71099687,Toronto,Canada,1300,12,11144
+Sample Property 4235275,47.56117225,-52.71099687,Toronto,Canada,1300,12,6794
+Sample Property 4235276,47.56117225,-52.71099687,Toronto,Canada,1300,12,5292
+Sample Property 4235278,53.7656608,-1.5336255,Leeds,United Kingdom,1300,12,8226
+Sample Property 4235281,43.6529206,-79.3849008,Toronto,Canada,1300,12,9077
+Sample Property 4235285,43.6529206,-79.3849008,Toronto,Canada,1300,12,9444
+Sample Property 4235286,47.55830881,-52.71282345,St. Johns,Canada,1300,12,9775
+Sample Property 4235289,43.6706273,-79.3897143,Toronto,Canada,1300,12,5453
+Sample Property 4235290,33.87026411,-84.31444645,Ga,United States,1300,12,9237
+Sample Property 4235291,53.57677615,10.0907146,Hamburg,Germany,1300,12,11958
+Sample Property 4235292,53.57295744,10.06623387,22041 Hamburg,Germany,1300,12,10335
+Sample Property 4235296,43.2549927,-79.88601166,Hamilton,Canada,1300,12,8044
+Sample Property 4235297,43.67073138,-79.38917041,Toronto,Canada,1300,12,5974
+Sample Property 4235298,43.645753,-79.39366,Toronto,Canada,1300,12,6428
+Sample Property 4235299,-26.09016537,28.08380127,Johannesburg,South Africa,1300,12,13334
+Sample Property 4235300,-26.12762258,27.90535927,Johannesburg,South Africa,1300,12,14745
+Sample Property 4235301,43.776875,-79.256655,Toronto,Canada,1300,12,9907
+Sample Property 4235302,25.6764922,-100.3060829,Monterrey,Mexico,1300,12,8339
+Sample Property 4235303,26.11686257,-80.36388516,"Weston, Fl  33326",United States,1300,12,6085
+Sample Property 4235304,28.6572914,77.2272603,Delhi,India,1300,12,6053
+Sample Property 4235305,47.5609807,-52.7468596,St. Johns,Canada,1300,12,13236
+Sample Property 4235306,47.5609807,-52.7468596,St. Johns,Canada,1300,12,5606
+Sample Property 4235307,43.76266406,-79.41123962,Toronto,Canada,1300,12,9039
+Sample Property 4235308,53.5503414,10.000654,22041 Hamburg,Germany,1300,12,13878
+Sample Property 4235309,53.5503414,10.000654,22041 Hamburg,Germany,1300,12,6949
+Sample Property 4235310,49.870836,-97.152962,Unknown,Canada,1300,12,12350
+Sample Property 4235311,43.6835028,-79.4582551,Toronto,Canada,1300,12,6147
+Sample Property 4235312,43.6573372,-79.5188476,Toronto,Canada,1300,12,7230
+Sample Property 4235313,47.56196863,-52.7105999,St Johns,Canada,1300,12,8403
+Sample Property 4235318,43.6446241,-79.5310669,Toronto,Canada,1300,12,8222
+Sample Property 4235319,45.5058792,-73.5299065,Montreal,Canada,1300,12,10631
+Sample Property 4235320,43.7155266,-79.5326089,Toronto,Canada,1300,12,8551
+Sample Property 4235321,41.89028315,-87.62911737,Chicago,United States,1300,12,14312
+Sample Property 4235322,47.5614849,-52.7125839,St John's,Canada,1300,12,8680
+Sample Property 4235323,41.8756208,-87.6243706,Chicago,United States,1300,12,8158
+Sample Property 4235325,47.5609807,-52.7468596,St. John's,Canada,1300,12,12440
+Sample Property 4235326,47.5609807,-52.7468596,St. Johns,Canada,1300,12,6384
+Sample Property 4235327,43.643372,-79.4221617,Toronto,Canada,1300,12,8023
+Sample Property 4235329,43.643372,-79.4221617,Toronto,Canada,1300,12,6118
+Sample Property 4235333,43.643372,-79.4221617,Toronto,Canada,1300,12,7284
+Sample Property 4235334,43.643372,-79.4221617,Toronto,Canada,1300,12,6648
+Sample Property 4235336,45.4905115,-73.7074617,Saint-laurent,Canada,1300,12,9258
+Sample Property 4235337,43.6529206,-79.3849008,Toronto,Canada,1300,12,5678
+Sample Property 4235338,43.3216952,-80.2829048,Cambridge,Canada,1300,12,11884
+Sample Property 4235339,43.667988,-79.388974,Toronto,Canada,1300,12,5402
+Sample Property 4235340,43.667988,-79.388974,Toronto,Canada,1300,12,7261
+Sample Property 4235341,1.426862789,103.8249448,Singapore,Singapore,1300,12,8784
+Sample Property 4235342,-22.9112163,-43.2093781,Rio De Janeiro,Brazil,1300,12,12489
+Sample Property 4235343,43.776875,-79.256655,Toronto,Canada,1300,12,8538
+Sample Property 4235344,43.6468397,-79.4064291,Toronto,Canada,1300,12,7354
+Sample Property 4235345,43.776875,-79.256655,Toronto,Canada,1300,12,10849
+Sample Property 4235352,49.2608944,-123.1139383,Vancouver,Canada,1300,12,10450
+Sample Property 4235353,49.2608944,-123.1139383,Vancouver,Canada,1300,12,14962
+Sample Property 4235354,49.2601779,-123.0891536,Vancouver,Canada,1300,8,9305
+Sample Property 4235355,49.2534178,-122.7637776,Port Coquitlam,Canada,1300,8,13967
+Sample Property 4235356,49.2412186,-123.0571089,Vancouver,Canada,1300,8,5121
+Sample Property 4235357,50.4290531,-127.4824773,Vancouver,Canada,1300,8,13126
+Sample Property 4235358,49.745309,-123.1131832,Garibaldi Highlands,Canada,1300,8,10559
+Sample Property 4235359,49.2804929,-123.1115394,Vancouver,Canada,1300,8,9942
+Sample Property 4235360,49.2608944,-123.1139383,Vancouver,Canada,1300,8,5003
+Sample Property 4235361,49.1555283,-123.0805857,Richmond,Canada,1300,8,5346
+Sample Property 4235362,49.2225195,-122.7413051,Pitt Meadows,Canada,1300,8,10403
+Sample Property 4235363,49.0591845,-122.8098984,Surrey,Canada,1300,8,6780
+Sample Property 4235364,49.1850834,-122.8446549,Surrey,Canada,1300,8,5282
+Sample Property 4235365,49.1036379,-122.8991133,Delta,Canada,1300,8,9566
+Sample Property 4235366,49.2608944,-123.1139383,Vancouver,Canada,1300,8,10838
+Sample Property 4235367,49.2753628,-122.795498,Coquitlam,Canada,1300,8,5044
+Sample Property 4235368,49.1738257,-123.1327427,Richmond,Canada,1300,8,8682
+Sample Property 4235369,49.2615363,-122.7561583,Port Coquitlam,Canada,1300,8,14720
+Sample Property 4235370,49.2500011,-122.9500111,Burnaby,Canada,1300,8,9416
+Sample Property 4235371,49.2219571,-122.9450104,Burnaby,Canada,1300,8,14764
+Sample Property 4235372,43.92298563,-78.84019732,Oshawa,Canada,1300,8,13580
+Sample Property 4235373,43.6730262,-79.3905683,Toronto,Canada,1300,8,11803
+Sample Property 4235374,22.2834919,114.1541512,Hong Kong,Hong Kong,1300,8,10751
+Sample Property 4235375,33.9412127,-84.2135309,Norcross,United States,1300,8,10883
+Sample Property 4235376,43.3631089,-79.8189676,Burlington,Canada,1300,8,14370
+Sample Property 4235378,33.67823281,-117.8585358,Irvine,United States,1300,8,10131
+Sample Property 4235379,43.71791513,-79.46677959,North York,Canada,1300,8,14078
+Sample Property 4235380,43.71904859,-79.46289392,North York,Canada,1300,8,12203
+Sample Property 4235381,43.718054,-79.46614821,Scarborough,Canada,1300,8,8378
+Sample Property 4235382,43.3442831,-79.8017963,Burlington,Canada,1300,8,12407
+Sample Property 4235383,43.776875,-79.256655,Toronto,Canada,1300,8,11208
+Sample Property 4235386,43.6529206,-79.3849008,Toronto,Canada,1300,8,7864
+Sample Property 4235387,55.66213108,12.56181479,Copenhagen,Denmark,1300,8,11858
+Sample Property 4235389,43.776875,-79.256655,Toronto,Canada,1300,8,7677
+Sample Property 4235408,43.3448335,-79.7944968,Burlington,Canada,1300,8,9386
+Sample Property 4235416,18.51919782,73.93144369,Pune,India,1300,8,10524
+Sample Property 4235417,45.5107735,-73.5648851,Saint-laurent,Canada,1300,8,11207
+Sample Property 4235418,3.1055929,101.642697,Petaling Jaya,Malaysia,1300,8,5347
+Sample Property 4235419,3.1570976,101.7009528,Kuala Lumpur,Malaysia,1300,8,8392
+Sample Property 4235420,43.40975246,-79.73626119,Oakville,Canada,1300,8,12960
+Sample Property 4235423,18.64395815,73.93256819,Pune,India,1300,8,6828
+Sample Property 4235424,37.79070971,-122.411312,San Francisco,United States,1300,8,14368
+Sample Property 4235425,5.39994565,100.2988099,Georgetown,Malaysia,1300,8,5733
+Sample Property 4235426,43.776875,-79.256655,Toronto,Canada,1300,8,11465
+Sample Property 4235427,43.643372,-79.4221617,Toronto,Canada,1300,8,8886
+Sample Property 4235428,2.9197711,101.6552743,Cyberjaya,Malaysia,1300,8,11446
+Sample Property 4235429,3.0567521,101.5854671,Subang Jaya,Malaysia,1300,8,12917
+Sample Property 4235430,3.1055929,101.642697,Petaling Jaya,Malaysia,1300,8,6152
+Sample Property 4235431,43.26260265,-79.8662639,"Hamilton, On",Canada,1300,8,8598
+Sample Property 4235434,43.65007206,-79.47292281,Toronto,Canada,1300,8,8664
+Sample Property 4235438,35.28579863,-120.6556749,San Luis Obispo,United States,1300,8,12852
+Sample Property 4235439,43.6420128,-79.4120669,Toronto,Canada,1300,8,14424
+Sample Property 4235440,43.6420128,-79.4120669,Toronto,Canada,1300,8,11631
+Sample Property 4235441,43.6420128,-79.4120669,Toronto,Canada,1300,8,6223
+Sample Property 4235442,40.75272975,-73.98363646,New York,United States,1300,8,12731
+Sample Property 4235443,43.6706016,-79.3829489,Toronto,Canada,1300,8,14013
+Sample Property 4235449,43.7708927,-79.4133523,Toronto,Canada,1300,8,8326
+Sample Property 4235450,40.74966284,-73.98961544,New York,United States,1300,8,5881
+Sample Property 4235452,3.043901,101.58065,Selangor,Malaysia,1300,8,11808
+Sample Property 4235453,3.1055929,101.642697,Petaling Jaya,Malaysia,1300,8,6460
+Sample Property 4235454,38.97771021,-94.84166622,Shawnee,United States,1300,8,9122
+Sample Property 4235457,-6.22558395,106.7995999,Jakarta,Indonesia,1300,8,14956
+Sample Property 4235458,-6.22558395,106.7995999,Jakarta,Indonesia,1300,8,12268
+Sample Property 4235460,43.4474108,-79.6665485,Oakville,Canada,1300,8,7347
+Sample Property 4235464,-22.9847564,-43.1954067,Rio De Janeiro,Brazil,1300,8,5597
+Sample Property 4235465,19.4325301,-99.1332102,Mexico City,Mexico,1300,8,5792
+Sample Property 4235466,3.1211979,101.7178427,Kuala Lumpur,Malaysia,1300,8,9355
+Sample Property 4235512,51.6136451,4.9370829,Dongen,Netherlands,1300,8,11763
+Sample Property 4235514,42.9611986,-81.2398064,London,Canada,1300,8,6667
+Sample Property 4235515,43.776875,-79.256655,Toronto,Canada,1300,8,10436
+Sample Property 4235516,43.6988897,-79.463596,York,Canada,1300,8,11487
+Sample Property 4235517,43.76537597,-79.40050542,Toronto,Canada,1300,8,7823
+Sample Property 4235518,-22.9112163,-43.2093781,Rio De Janeiro,Brazil,1300,8,12284
+Sample Property 4235524,3.1570976,101.7009528,Kuala Lumpur,Malaysia,1300,8,9141
+Sample Property 4235525,1.2904527,103.852038,Singapore,Singapore,1300,8,7072
+Sample Property 4235526,41.68891664,-72.70645186,"Newington, Ct",United States,1300,8,8085
+Sample Property 4235531,43.35355559,-80.31751513,Cambridge,Canada,1300,8,5730
+Sample Property 4235532,3.1570976,101.7009528,Kuala Lumpur,Malaysia,1300,8,6449
+Sample Property 4235535,43.7708927,-79.4133523,Toronto,Canada,1300,8,7893
+Sample Property 4235536,43.4544816,-79.6686557,Oakville,Canada,1300,8,12277
+Sample Property 4235540,-22.9112163,-43.2093781,Rio De Janeiro,Brazil,1300,8,8381
+Sample Property 4235542,2.9197711,101.6552743,Cyberjaya,Malaysia,1300,8,11493
+Sample Property 4235543,2.9197711,101.6552743,Cyberjaya,Malaysia,1300,8,9687
+Sample Property 4235549,-26.02049853,28.01484704,Johannesburg,South Africa,1300,8,11552
+Sample Property 4235551,43.22171979,-79.88482171,Hamilton,Canada,1300,8,7912
+Sample Property 4235552,42.9611986,-81.2398064,Toronto,Canada,1300,8,7869
+Sample Property 4235553,39.95049364,-75.15296459,Philadelphia,United States,1300,8,8539
+Sample Property 4235561,3.1211979,101.7178427,Kuala Lumpur,Malaysia,1300,8,10499
+Sample Property 4235562,41.8755546,-87.6244212,Chicago,United States,1300,8,9706
+Sample Property 4235563,43.643372,-79.4221617,Toronto,Canada,1300,8,12658
+Sample Property 4235567,3.1211979,101.7178427,Kuala Lumpur,Malaysia,1300,8,14887
+Sample Property 4235568,43.64057861,-79.43670988,C,Canada,1300,8,9544
+Sample Property 4235569,43.63607516,-79.38720703,C,Canada,1300,8,12345
+Sample Property 4235570,61.0666922,-107.9917071,C,Canada,1300,8,12952
+Sample Property 4235571,43.643372,-79.4221617,Toronto,Canada,1300,8,12077
+Sample Property 4235573,61.0666922,-107.9917071,C,Canada,1300,8,10144
+Sample Property 4235574,61.0666922,-107.9917071,C,Canada,1300,8,10264
+Sample Property 4235575,61.0666922,-107.9917071,C,Canada,1300,8,7381
+Sample Property 4235576,61.0666922,-107.9917071,C,Canada,1300,8,11466
+Sample Property 4235577,61.0666922,-107.9917071,C,Canada,1300,8,8703
+Sample Property 4235578,43.6529206,-79.3849008,Toronto,Canada,1300,8,5990
+Sample Property 4235579,61.0666922,-107.9917071,D,Canada,1300,8,9414
+Sample Property 4235581,43.643372,-79.4221617,Toronto,Canada,1300,8,12727
+Sample Property 4235582,61.0666922,-107.9917071,E,Canada,1300,8,12325
+Sample Property 4235583,61.0666922,-107.9917071,Gukgkjgkjg,Canada,1300,8,5891
+Sample Property 4235584,43.643372,-79.4221617,Toronto,Canada,1300,8,8464
+Sample Property 4235585,43.9229758,-78.84012709,Oshawa,Canada,1300,8,5252
+Sample Property 4235586,61.0666922,-107.9917071,Lkbnblkb,Canada,1300,8,12186
+Sample Property 4235587,61.0666922,-107.9917071,Awdawaw,Canada,1300,8,12177
+Sample Property 4235592,19.40741569,-99.19992328,Mexico City,Mexico,1300,8,13737
+Sample Property 4235593,61.0666922,-107.9917071,C,Canada,1300,8,7342
+Sample Property 4235594,61.0666922,-107.9917071,C,Canada,1300,8,14212
+Sample Property 4235595,45.4756002,-73.4591741,A,Canada,1300,8,12124
+Sample Property 4235596,45.4756002,-73.4591741,A,Canada,1300,8,13411
+Sample Property 4235597,45.4756002,-73.4591741,A,Canada,1300,8,11787
+Sample Property 4235598,45.4756002,-73.4591741,A,Canada,1300,8,12545
+Sample Property 4235599,45.4756002,-73.4591741,A,Canada,1300,8,11330
+Sample Property 4235600,48.4162773,-71.2558061,1,Canada,1300,8,5915
+Sample Property 4235601,48.4162773,-71.2558061,1,Canada,1300,8,14491
+Sample Property 4235602,48.4162773,-71.2558061,1,Canada,1300,8,11887
+Sample Property 4235603,45.4756002,-73.4591741,A,Canada,1300,8,5955
+Sample Property 4235604,43.646583,-79.407402,Toronto,Canada,1300,8,8507
+Sample Property 4235605,33.8849577,-117.5609762,Corona,United States,1300,8,11265
+Sample Property 4235606,45.4756002,-73.4591741,A,Canada,1300,8,7829
+Sample Property 4235608,43.6420128,-79.4120669,Toronto,Canada,1300,8,6681
+Sample Property 4235609,14.64213672,121.0299397,Quezon City,Philippines,1300,8,7798
+Sample Property 4235610,14.5568853,121.023532,Makati,Philippines,1300,8,6473
+Sample Property 4235611,40.75112584,-73.97871494,New York,United States,1300,8,14160
+Sample Property 4235612,40.75133845,-73.97900037,New York,United States,1300,8,7370
+Sample Property 4235613,33.8849577,-117.5609762,Corona,United States,1300,8,11970
+Sample Property 4235614,45.4689313,-73.4464111,B,Canada,1300,8,13361
+Sample Property 4235621,43.6473617,-79.39699155,Toronto,Canada,1300,8,5879
+Sample Property 4235622,53.519168,-113.52044,Toronto,Canada,1300,8,11211
+Sample Property 4235625,47.5614849,-52.7125839,St. John's,Canada,1300,8,8621
+Sample Property 4235626,47.5614849,-52.7125839,Toronto,Canada,1300,8,8694
+Sample Property 4235627,47.5614849,-52.7125839,St. John's,Canada,1300,8,9588
+Sample Property 4235628,43.63012295,-79.3997949,Toronto,Canada,1300,8,11187
+Sample Property 4235629,43.63012295,-79.3997949,Toronto,Canada,1300,8,12218
+Sample Property 4235630,43.6437215,-79.4114031,Toronto,Canada,1300,8,12523
+Sample Property 4235631,43.63012295,-79.3997949,Toronto,Canada,1300,8,13611
+Sample Property 4235632,43.63012295,-79.3997949,Toronto,Canada,1300,8,9170
+Sample Property 4235633,43.63012295,-79.3997949,Toronto,Canada,1300,8,6292
+Sample Property 4235634,43.63012295,-79.3997949,Toronto,Canada,1300,8,14979
+Sample Property 4235635,43.63012295,-79.3997949,Toronto,Canada,1300,8,9048
+Sample Property 4235636,43.6437215,-79.4114031,Toronto,Canada,1300,8,14066
+Sample Property 4235637,43.6437215,-79.4114031,Toronto,Canada,1300,8,8845
+Sample Property 4235638,61.0666922,-107.9917071,C,Canada,1300,8,11796
+Sample Property 4235639,3.1055929,101.642697,Petaling Jaya,Malaysia,1300,8,9564
+Sample Property 4235641,1.2904527,103.852038,Singapore,Singapore,1300,8,7958
+Sample Property 4235642,1.2904527,103.852038,Singapore,Singapore,1300,8,13462
+Sample Property 4235643,43.64391226,-79.41122677,Toronto,Canada,1300,8,9494
+Sample Property 4235644,61.0666922,-107.9917071,C,Canada,1300,8,12030
+Sample Property 4235650,43.6964365,-79.46376,Toronto,Canada,1300,8,12450
+Sample Property 4235651,43.6392284,-79.4143449,Toronto,Canada,1300,8,14059
+Sample Property 4235653,1.2904527,103.852038,Singapore,Singapore,1300,8,5547
+Sample Property 4235654,36.1662859,-115.149225,Las Vegas,United States,1300,8,14451
+Sample Property 4235655,3.14912895,101.7132726,Kuala Lumpur,Malaysia,1300,8,11370
+Sample Property 4235656,3.14912895,101.7132726,Kuala Lumpur,Malaysia,1300,8,13619
+Sample Property 4235657,61.0666922,-107.9917071,C,Canada,1300,8,9301
+Sample Property 4235659,3.1211979,101.7178427,Kuala Lumpur,Malaysia,1300,8,14172
+Sample Property 4235660,3.1211979,101.7178427,Kuala Lumpur,Malaysia,1300,8,9478
+Sample Property 4235661,3.043901,101.58065,Selangor,Malaysia,1300,8,11778
+Sample Property 4235662,3.043901,101.58065,Selangor,Malaysia,1300,8,13495
+Sample Property 4235663,3.043901,101.58065,Selangor,Malaysia,1300,8,8684
+Sample Property 4235664,3.043901,101.58065,Selangor,Malaysia,1300,8,7454
+Sample Property 4235725,43.64660727,-79.40723777,Toronto,Canada,1300,8,12913
+Sample Property 4235727,43.7237659,-79.4698202,Toronto,Canada,1300,8,7292
+Sample Property 4235728,25.0000001,-107.5000001,Sinaloa,Mexico,1300,8,11877
+Sample Property 4235791,38.6272733,-90.1978889,St Louis,United States,1300,8,14279
+Sample Property 4235792,43.64368,-79.41219,,,1300,8,10774
+Sample Property 4235793,45.5168584,-73.5595264,Montreal,Canada,1300,8,9521
+Sample Property 4235794,40.24445194,-3.77187252,Madrid,Spain,1300,8,12747
+Sample Property 4235795,55.67746342,12.57151365,København,Denmark,1300,8,7827
+Sample Property 4235796,40.4167047,-3.7035825,Madrid,Spain,900,8,7741
+Sample Property 4235797,43.6437215,-79.4114031,Toronto,Canada,900,8,11645
+Sample Property 4235799,29.36777698,47.98038483,Kuwait City,Kuwait,900,8,8442
+Sample Property 4235812,40.4167047,-3.7035825,Madrid,Spain,900,8,6246
+Sample Property 4235813,-26.05199012,28.0230546,Johannesburg,South Africa,900,8,9835
+Sample Property 4235816,43.69642438,-79.46411133,Toronto,Canada,900,8,5734
+Sample Property 4235817,43.69679672,-79.46351051,Toronto,Canada,900,8,13548
+Sample Property 4235818,43.9229758,-78.84012709,Oshawa,Canada,900,8,9852
+Sample Property 4235819,43.6437215,-79.4114031,Toronto,Canada,900,8,14110
+Sample Property 4235820,43.7237659,-79.4698202,Toronto,Canada,900,8,5357
+Sample Property 4235821,43.7237659,-79.4698202,Toronto,Canada,900,8,10514
+Sample Property 4235822,43.81094861,-79.45186973,Thornhill,Canada,900,8,8781
+Sample Property 4235824,55.61856995,12.37901688,Copenhagen,Denmark,900,8,6376
+Sample Property 4235825,51.02532675,-114.0498684,Calgary,Canada,900,8,6632
+Sample Property 4235826,45.7326055,-73.4528307,Repentigny,Canada,900,8,10735
+Sample Property 4235827,41.01090424,29.03582454,Istanbul,Turkey,900,8,5828
+Sample Property 4235828,3.0567521,101.5854671,Subang Jaya,Malaysia,900,8,5951
+Sample Property 4235829,3.0567521,101.5854671,Subang Jaya,Malaysia,900,8,9587
+Sample Property 4235830,47.65194993,-122.3450106,Seattle,United States,900,8,6448
+Sample Property 4235831,33.7490987,-84.3901849,Atlanta,United States,900,8,12134
+Sample Property 4235833,43.6437215,-79.4114031,Toronto,Canada,900,8,6259
+Sample Property 4235834,33.1580933,-117.3505939,Carlsbad,United States,900,8,12745
+Sample Property 4235835,46.603354,1.8883335,Boulonge-billancourt,France,900,8,8035
+Sample Property 4235836,43.6437215,-79.4114031,Toronto,Canada,900,8,5029
+Sample Property 4235837,43.67011395,-79.38030903,Toronto,Canada,900,8,12454
+Sample Property 4235869,54,-72,Quebec,Canada,900,8,6782
+Sample Property 4235872,40.74365611,-73.93794537,Long Island City,United States,900,8,5650
+Sample Property 4235875,41.0119397,29.0369181,Istanbul,Turkey,900,8,13341
+Sample Property 4235876,41.0119397,29.0369181,Istanbul,Turkey,900,8,5579
+Sample Property 4235881,33.64263415,-84.42649841,Atlanta,United States,900,8,12913
+Sample Property 4235883,33.64263415,-84.42649841,Atlanta,United States,900,8,10828
+Sample Property 4235884,33.64263415,-84.42649841,Atlanta,United States,900,8,13067
+Sample Property 4235885,43.6529206,-79.3849008,Toronto,Canada,900,8,6635
+Sample Property 4235886,37.3029568,-120.4843269,Merced,United States,900,8,11525
+Sample Property 4235887,37.72793965,-122.4770224,Stonestown,United States,900,8,14532
+Sample Property 4235888,45.3455633,-75.7319848,Ottawa,Canada,900,8,12006
+Sample Property 4235889,55.70039627,12.57774711,Copenhagen,Canada,900,8,13501
+Sample Property 4235890,43.62181718,3.82101059,Montpellier,France,900,8,12990
+Sample Property 4235891,43.64419665,-79.38941717,Toronto,Canada,900,8,7527
+Sample Property 4235892,52.13147938,5.03663063,Maarssen,Netherlands,900,8,11375
+Sample Property 4235895,1.2904527,103.852038,Singapore,Singapore,900,8,8675
+Sample Property 4235896,1.2904527,103.852038,Singapore,Singapore,900,8,11633
+Sample Property 4235898,41.723615,-72.61517164,Glastonbury,United States,900,8,9725
+Sample Property 4235900,43.650192,-79.385192,Toronto,Canada,900,8,6891
+Sample Property 4235901,43.650192,-79.385192,Toronto,Canada,900,8,7886
+Sample Property 4235902,43.650192,-79.385192,Toronto,Canada,900,8,5959
+Sample Property 4235903,43.650192,-79.385192,Toronto,Canada,900,8,13193
+Sample Property 4235904,43.6529206,-79.3849008,Toronto,Canada,900,8,10858
+Sample Property 4235905,43.6529206,-79.3849008,Toronto,Canada,900,8,10710
+Sample Property 4235906,43.6529206,-79.3849008,Toronto,Canada,900,8,10843
+Sample Property 4235907,-25.16470726,27.16953278,Maruleng,South Africa,900,8,6184
+Sample Property 4235910,43.6529206,-79.3849008,Toronto,Canada,900,8,7972
+Sample Property 4235911,43.6529206,-79.3849008,Toronto,Canada,900,8,8947
+Sample Property 4235912,43.6529206,-79.3849008,Toronto,Canada,900,8,8071
+Sample Property 4235913,43.6529206,-79.3849008,Toronto,Canada,900,8,5233
+Sample Property 4235914,43.6529206,-79.3849008,Toronto,Canada,900,8,10131
+Sample Property 4235916,1.2904527,103.852038,Singapore,Singapore,900,8,6162
+Sample Property 4235918,43.6475895,-79.5613758,Toronto,Canada,900,8,6844
+Sample Property 4235919,45.4202405,-75.69352452,Ottawa,Canada,900,8,7708
+Sample Property 4235920,3.1185282,101.6789854,Kuala Lumpur,Malaysia,900,8,14923
+Sample Property 4235921,3.1387103,101.6820995,Kuala Lumpur,Malaysia,900,8,8464
+Sample Property 4235922,3.1387103,101.6820995,Kuala Lumpur,Malaysia,900,8,14593
+Sample Property 4235923,55.70039627,12.57774711,Copenhagen,Canada,900,8,9620
+Sample Property 4235924,1.2904527,103.852038,Singapore,Singapore,900,8,9097
+Sample Property 4235925,1.2904527,103.852038,Singapore,Singapore,900,8,14701
+Sample Property 4235926,3.1055929,101.642697,Petaling Jaya,Malaysia,900,8,5940
+Sample Property 4235927,3.1387103,101.6820995,Kuala Lumpur,Malaysia,900,8,9615
+Sample Property 4235928,3.1055929,101.642697,Petaling Jaya,Malaysia,900,8,13424
+Sample Property 4235930,13.5859219,100.4160866,Bangkok,Thailand,900,8,13310
+Sample Property 4235931,13.5859219,100.4160866,Bangkok,Thailand,900,8,13858
+Sample Property 4235932,7.715984,98.32212637,Phuket,Thailand,900,8,9072
+Sample Property 4235933,12.9318593,100.9006905,Pattaya,Thailand,900,8,12372
+Sample Property 4235934,18.7905657,98.9880846,Chiang Mai,Thailand,900,8,10406
+Sample Property 4235935,3.0686213,101.5183418,Shah Alam,Malaysia,900,8,7410
+Sample Property 4235936,3.1055929,101.642697,Petaling Jaya,Malaysia,900,8,9042
+Sample Property 4235937,3.2035585,101.5679057,Sungai Buloh,Malaysia,900,8,5658
+Sample Property 4235939,3.1055929,101.642697,Petaling Jaya,Malaysia,900,8,6601
+Sample Property 4235940,-33.7672384,151.0550447,Sydney,Australia,900,8,7248
+Sample Property 4235941,14.5568853,121.023532,,Philippines,900,8,5154
+Sample Property 4235942,43.6529206,-79.3849008,Toronto,Canada,900,8,10699
+Sample Property 4235943,43.6529206,-79.3849008,Toronto,Canada,900,8,7913
+Sample Property 4235944,43.6529206,-79.3849008,Toronto,Canada,900,8,7466
+Sample Property 4235945,43.6529206,-79.3849008,Toronto,Canada,900,8,14648
+Sample Property 4235946,43.6529206,-79.3849008,Toronto,Canada,900,8,7988
+Sample Property 4235947,43.6529206,-79.3849008,Toronto,Canada,900,8,13436
+Sample Property 4235948,43.6529206,-79.3849008,Toronto,Canada,900,8,9479
+Sample Property 4235949,43.6529206,-79.3849008,Toronto,Canada,900,8,6383
+Sample Property 4235950,43.6529206,-79.3849008,Toronto,Canada,900,8,13885
+Sample Property 4235951,43.6529206,-79.3849008,Toronto,Canada,900,8,7185
+Sample Property 4235952,43.6529206,-79.3849008,Toronto,Canada,900,8,9711
+Sample Property 4235953,43.6529206,-79.3849008,Toronto,Canada,900,8,6142
+Sample Property 4235954,43.6529206,-79.3849008,Toronto,Canada,900,8,8666
+Sample Property 4235955,43.6529206,-79.3849008,Toronto,Canada,900,8,13649
+Sample Property 4235956,43.6529206,-79.3849008,Toronto,Canada,900,8,5982
+Sample Property 4235957,43.6529206,-79.3849008,Toronto,Canada,900,8,12274
+Sample Property 4235958,43.6529206,-79.3849008,Toronto,Canada,900,8,8731
+Sample Property 4235959,43.6529206,-79.3849008,Toronto,Canada,900,8,9569
+Sample Property 4235960,43.6529206,-79.3849008,Toronto,Canada,900,8,13804
+Sample Property 4235961,43.6529206,-79.3849008,Toronto,Canada,900,8,6214
+Sample Property 4235962,43.6529206,-79.3849008,Toronto,Canada,900,8,9180
+Sample Property 4235963,43.6529206,-79.3849008,Toronto,Canada,900,8,6864
+Sample Property 4235964,43.6529206,-79.3849008,Toronto,Canada,900,8,5552
+Sample Property 4235965,43.6529206,-79.3849008,Toronto,Canada,900,8,6032
+Sample Property 4235966,43.6529206,-79.3849008,Toronto,Canada,900,8,11610
+Sample Property 4235967,43.6529206,-79.3849008,Toronto,Canada,900,8,12743
+Sample Property 4235968,43.6529206,-79.3849008,Toronto,Canada,900,8,14317
+Sample Property 4235969,43.6529206,-79.3849008,Toronto,Canada,900,8,9569
+Sample Property 4235970,43.6529206,-79.3849008,Toronto,Canada,900,8,6827
+Sample Property 4235971,43.6529206,-79.3849008,Toronto,Canada,900,8,9388
+Sample Property 4235972,43.6529206,-79.3849008,Toronto,Canada,900,8,13861
+Sample Property 4235973,43.6529206,-79.3849008,Toronto,Canada,900,8,12163
+Sample Property 4235974,43.6529206,-79.3849008,Toronto,Canada,900,8,5908
+Sample Property 4235975,43.6529206,-79.3849008,Toronto,Canada,900,8,7697
+Sample Property 4235976,43.6529206,-79.3849008,Toronto,Canada,900,8,13418
+Sample Property 4235977,43.6529206,-79.3849008,Toronto,Canada,900,8,14725
+Sample Property 4235978,43.6529206,-79.3849008,Toronto,Canada,900,8,8741
+Sample Property 4235979,43.6529206,-79.3849008,Toronto,Canada,900,8,9354
+Sample Property 4235980,43.6529206,-79.3849008,Toronto,Canada,900,8,10757
+Sample Property 4235981,43.6529206,-79.3849008,Toronto,Canada,900,8,6415
+Sample Property 4235982,43.6529206,-79.3849008,Toronto,Canada,900,8,9895
+Sample Property 4235983,43.6529206,-79.3849008,Toronto,Canada,900,8,13757
+Sample Property 4235984,43.6529206,-79.3849008,Toronto,Canada,900,8,11409
+Sample Property 4235985,43.6529206,-79.3849008,Toronto,Canada,900,8,6816
+Sample Property 4235986,43.6529206,-79.3849008,Toronto,Canada,900,8,10289
+Sample Property 4235987,43.6529206,-79.3849008,Toronto,Canada,900,8,5014
+Sample Property 4235988,43.6529206,-79.3849008,Toronto,Canada,900,8,8273
+Sample Property 4235989,43.6529206,-79.3849008,Toronto,Canada,900,8,10666
+Sample Property 4235990,43.6529206,-79.3849008,Toronto,Canada,900,8,5509
+Sample Property 4235991,43.6529206,-79.3849008,Toronto,Canada,900,8,10875
+Sample Property 4235992,43.6529206,-79.3849008,Toronto,Canada,900,8,13718
+Sample Property 4235993,43.6529206,-79.3849008,Toronto,Canada,900,8,10990
+Sample Property 4235994,43.6529206,-79.3849008,Toronto,Canada,900,8,5095
+Sample Property 4235995,43.6529206,-79.3849008,Toronto,Canada,900,8,12288
+Sample Property 4235996,43.6529206,-79.3849008,Toronto,Canada,900,8,11239
+Sample Property 4235997,43.6529206,-79.3849008,Toronto,Canada,900,8,8373
+Sample Property 4235998,43.6529206,-79.3849008,Toronto,Canada,900,8,14288
+Sample Property 4235999,43.6529206,-79.3849008,Toronto,Canada,900,8,11616
+Sample Property 4236000,43.6529206,-79.3849008,Toronto,Canada,900,8,10508
+Sample Property 4236001,43.6529206,-79.3849008,Toronto,Canada,900,8,6927
+Sample Property 4236002,43.6529206,-79.3849008,Toronto,Canada,900,8,11846
+Sample Property 4236003,43.6529206,-79.3849008,Toronto,Canada,900,8,7430
+Sample Property 4236004,43.6529206,-79.3849008,Toronto,Canada,900,8,7896
+Sample Property 4236005,43.6529206,-79.3849008,Toronto,Canada,900,8,11761
+Sample Property 4236006,43.6529206,-79.3849008,Toronto,Canada,900,8,12523
+Sample Property 4236007,43.6529206,-79.3849008,Toronto,Canada,900,8,7184
+Sample Property 4236008,43.6529206,-79.3849008,Toronto,Canada,900,8,14737
+Sample Property 4236009,43.6529206,-79.3849008,Toronto,Canada,900,8,5925
+Sample Property 4236010,43.6529206,-79.3849008,Toronto,Canada,900,8,5129
+Sample Property 4236011,43.6529206,-79.3849008,Toronto,Canada,900,8,13688
+Sample Property 4236012,43.6529206,-79.3849008,Toronto,Canada,900,8,14798
+Sample Property 4236013,43.6529206,-79.3849008,Toronto,Canada,900,8,14973
+Sample Property 4236014,43.6529206,-79.3849008,Toronto,Canada,900,8,9009
+Sample Property 4236015,43.6529206,-79.3849008,Toronto,Canada,900,8,14973
+Sample Property 4236016,43.6529206,-79.3849008,Toronto,Canada,900,8,10335
+Sample Property 4236017,43.6529206,-79.3849008,Toronto,Canada,900,8,7791
+Sample Property 4236018,43.6529206,-79.3849008,Toronto,Canada,900,8,10576
+Sample Property 4236019,43.6529206,-79.3849008,Toronto,Canada,900,8,12104
+Sample Property 4236020,43.6529206,-79.3849008,Toronto,Canada,900,8,12301
+Sample Property 4236021,43.6529206,-79.3849008,Toronto,Canada,900,8,14823
+Sample Property 4236022,43.6529206,-79.3849008,Toronto,Canada,900,8,11829
+Sample Property 4236023,43.6529206,-79.3849008,Toronto,Canada,900,8,5829
+Sample Property 4236024,43.6529206,-79.3849008,Toronto,Canada,900,8,13978
+Sample Property 4236025,43.6529206,-79.3849008,Toronto,Canada,900,8,8833
+Sample Property 4236026,43.6529206,-79.3849008,Toronto,Canada,900,8,9836
+Sample Property 4236027,43.6529206,-79.3849008,Toronto,Canada,900,8,6627
+Sample Property 4236028,43.6529206,-79.3849008,Toronto,Canada,900,8,14012
+Sample Property 4236029,43.6529206,-79.3849008,Toronto,Canada,900,8,9780
+Sample Property 4236030,43.6529206,-79.3849008,Toronto,Canada,900,8,12368
+Sample Property 4236031,43.6529206,-79.3849008,Toronto,Canada,900,8,14893
+Sample Property 4236032,43.6529206,-79.3849008,Toronto,Canada,1000,8,7900
+Sample Property 4236033,43.6529206,-79.3849008,Toronto,Canada,1000,8,14742
+Sample Property 4236034,43.6529206,-79.3849008,Toronto,Canada,1000,8,14823
+Sample Property 4236035,43.6529206,-79.3849008,Toronto,Canada,1000,8,9395
+Sample Property 4236036,43.6529206,-79.3849008,Toronto,Canada,1000,8,14025
+Sample Property 4236037,43.6529206,-79.3849008,Toronto,Canada,1000,8,7262
+Sample Property 4236038,43.6529206,-79.3849008,Toronto,Canada,1000,8,7052
+Sample Property 4236039,43.6529206,-79.3849008,Toronto,Canada,1000,8,14144
+Sample Property 4236040,43.6529206,-79.3849008,Toronto,Canada,1000,8,13976
+Sample Property 4236041,43.6529206,-79.3849008,Toronto,Canada,1000,8,5680
+Sample Property 4236042,52.0959088,5.1429889,Utrecht,Netherlands,1000,8,9189
+Sample Property 4236043,43.643761,-79.411293,Toronto,Canada,1000,8,7203
+Sample Property 4236044,43.643761,-79.411293,Toronto,Canada,1000,8,10366
+Sample Property 4236045,-26.0513889,28.0280556,Bryanston,South Africa,1000,8,6176
+Sample Property 4236046,-26.1763889,28.1425,Bedfordview,South Africa,1000,8,14981
+Sample Property 4236047,-26.005,28.0038889,Fourways,South Africa,1000,8,9842
+Sample Property 4236048,-26.102166,28.0565142,Sandown,South Africa,1000,8,8776
+Sample Property 4236049,-26.0433333,28.0644444,Woodmead,South Africa,1000,8,13285
+Sample Property 4236050,52.36131182,4.870328307,Amsterdam,Netherlands,1000,8,10736
+Sample Property 4236051,52.0853245,4.3384407,Den Haag,Netherlands,1000,8,6146
+Sample Property 4236059,51.9234147,4.4896023,Rotterdam,Netherlands,1000,8,11320
+Sample Property 4236060,43.643761,-79.411293,Toronto,Canada,1000,8,5405
+Sample Property 4236061,43.68684559,-79.7612974,Brampton,Canada,1000,8,7030
+Sample Property 4236062,25.7880376,-100.3987158,Dfh34sdf,Canada,1000,8,7305
+Sample Property 4236063,43.6392284,-79.4143449,Toronto,Canada,1000,8,6180
+Sample Property 4236064,13.5859219,100.4160866,Bangkok,Thailand,1000,8,14252
+Sample Property 4236065,13.5859219,100.4160866,Bangkok,Thailand,1000,8,7795
+Sample Property 4236066,13.5859219,100.4160866,Bangkok,Thailand,1000,8,12777
+Sample Property 4236067,13.5859219,100.4160866,Bangkok,Thailand,1000,8,6860
+Sample Property 4236068,13.5859219,100.4160866,Bangkok,Thailand,1000,8,6726
+Sample Property 4236069,13.5859219,100.4160866,Bangkok,Thailand,1000,8,10603
+Sample Property 4236070,13.5859219,100.4160866,Bangkok,Thailand,1000,8,9366
+Sample Property 4236071,13.5859219,100.4160866,Bangkok,Thailand,1000,8,7973
+Sample Property 4236072,4.517765,-74.1201929,Bogota,Colombia,1000,8,5664
+Sample Property 4236093,41.22610261,-73.91738892,Croton On Hudson,United States,1000,8,10890
+Sample Property 4236094,31.5621916,74.3228517,Lahore,Pakistan,1000,8,13236
+Sample Property 4236108,-26.205,28.0497222,Johannesburg,South Africa,1000,8,10352
+Sample Property 4236109,43.6423528,-79.4107345,Toronto,Canada,1000,8,13448
+Sample Property 4236110,40.72198995,-73.99243176,New York City,United States,1000,8,6544
+Sample Property 4236112,43.6437215,-79.4114031,Toronto,Canada,1000,8,7361
+Sample Property 4236115,43.64618919,-79.40835974,Toronto,Canada,1000,8,13002
+Sample Property 4236116,43.643761,-79.411293,Toronto,Canada,1000,8,12929
+Sample Property 4236117,32.29781642,-64.78779316,Hamilton,Bermuda,1000,8,13001
+Sample Property 4236125,43.62152204,3.820538521,"Montpellier, France",France,1000,8,6168
+Sample Property 4236126,43.6437215,-79.4114031,Toronto,Canada,1000,8,5575
+Sample Property 4236127,43.6529206,-79.3849008,Toronto,Canada,1000,8,12557
+Sample Property 4236130,33.13956356,-96.7694664,Frisco,United States,1000,8,7101
+Sample Property 4236139,43.64357166,-79.41145957,Toronto,Canada,1000,8,10840
+Sample Property 4236150,35.2351765,-75.6284903,Frisco,United States,1000,8,13264
+Sample Property 4236151,13.7529438,100.4941219,Bangkok,Thailand,1000,8,6209
+Sample Property 4236152,43.6394979,-79.4421729,"Toronto, Ontario",Canada,1000,8,10832
+Sample Property 4236153,43.6394979,-79.4421729,"Toronto, Ontario",Canada,1000,24,5063
+Sample Property 4236154,61.0666922,-107.9917071,"Alpharetta, Georgia",Canada,1000,24,12582
+Sample Property 4236155,3.1387103,101.6820995,Kuala Lumpur,Malaysia,1000,24,12181
+Sample Property 4236156,-26.04842614,28.08823228,Woodmead,South Africa,1000,24,14222
+Sample Property 4236157,33.9294606,-116.977248,"Beaumont, California",United States,1000,24,7192
+Sample Property 4236158,18.01751788,-76.75686121,Kingston,Jamaica,1000,24,10658
+Sample Property 4236159,-26.0484165,28.08828592,Sandton,South Africa,1000,24,14435
+Sample Property 4236160,43.45078481,-80.49200892,"Kitchener, On",Canada,1000,24,8005
+Sample Property 4236162,43.643761,-79.411293,Toronto,Canada,1000,24,6858
+Sample Property 4236163,43.643761,-79.411293,Toronto,Canada,1000,24,8916
+Sample Property 4236164,43.643761,-79.411293,Toronto,Canada,1000,24,5702
+Sample Property 4236165,43.643761,-79.411293,Toronto,Canada,1000,24,13998
+Sample Property 4236166,43.643761,-79.411293,Toronto,Canada,1000,24,13412
+Sample Property 4236167,34.1683386,-118.6059197,Woodland Hills,United States,1000,24,11049
+Sample Property 4236168,34.1417687,-118.8148236,Westlake Village,United States,1000,24,9322
+Sample Property 4236169,33.92807387,-117.9040665,Brea,United States,1000,24,11940
+Sample Property 4236170,34.11764317,-117.8141722,San Dimas,United States,1000,24,13576
+Sample Property 4236171,34.0103584,-118.4722221,Santa Monica,United States,1000,24,9110
+Sample Property 4236172,33.92725379,-117.8383462,Brea,United States,1000,24,13089
+Sample Property 4236173,33.873049,-118.266159,Carson,United States,1000,24,14590
+Sample Property 4236174,34.10985193,-117.488703,Fontana,United States,1000,24,9720
+Sample Property 4236175,43.6437215,-79.4114031,Toronto,Canada,1000,24,6384
+Sample Property 4236176,43.6437215,-79.4114031,Toronto,Canada,1000,24,9729
+Sample Property 4236177,43.6560158,-79.3823279,Toronto,Canada,1000,24,6974
+Sample Property 4236179,43.71437153,-79.72270042,Brampton,Canada,1000,24,5447
+Sample Property 4236180,40.4167047,-3.7035825,Madrid,Spain,1000,24,12341
+Sample Property 4236181,40.46347042,-3.616690636,Madrid,Spain,1000,24,8546
+Sample Property 4236182,43.725432,-79.454715,Toronto,Canada,1000,24,13334
+Sample Property 4236183,43.254687,-79.8678197,Hamilton,Canada,1000,24,5296
+Sample Property 4236190,48.5894664,7.7522932,Strasbourg,France,1000,24,9449
+Sample Property 4236194,3.1387103,101.6820995,Kuala Lumpur,Malaysia,1000,24,5953
+Sample Property 4236195,43.714575,-79.7523867,Brampton,Canada,1000,24,7481
+Sample Property 4236196,43.2257242,-79.8609173,Hamilton,Canada,1000,24,10890
+Sample Property 4236197,43.6508151,-79.5269472,Toronto,Canada,1000,24,13192
+Sample Property 4236198,43.6508151,-79.5269472,Toronto,Canada,1000,24,7938
+Sample Property 4236200,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,10121
+Sample Property 4236201,-6.1753167,106.8271436,Jakarta,Indonesia,1000,24,10436
+Sample Property 4236202,-6.22721705,106.7972032,Jakarta,Indonesia,1000,24,10228
+Sample Property 4236203,33.1580933,-117.3505939,"Carlsbad, California",United States,1000,24,6064
+Sample Property 4236204,34.053717,-118.2427266,"Los Angeles, Ca",United States,1000,24,13657
+Sample Property 4236205,37.3438502,-121.8831349,"San Jose, Ca",United States,1000,24,7671
+Sample Property 4236206,42.5278731,-70.9286609,"Peabody, Ma",United States,1000,24,8706
+Sample Property 4236325,34.0633443,-117.6508876,"Ontario, Ca",United States,1000,24,9931
+Sample Property 4236326,25.22761165,55.17507748,Dubai,United Arab Emirates,1000,24,6669
+Sample Property 4236329,43.70150717,-79.39766091,Toronto,Canada,1000,24,11215
+Sample Property 4236330,43.81817941,-79.50462341,Vaughn,Canada,1000,24,13883
+Sample Property 4236332,37.13758568,-93.27650672,Springfield,United States,1000,24,14765
+Sample Property 4236333,-33.7671443,151.0550496,Sydney,Australia,1000,24,5284
+Sample Property 4236334,41.71341751,-72.60342836,Glastonbury,United States,1000,24,12894
+Sample Property 4236335,43.68152704,-79.41824287,Toronto,Canada,1000,24,12656
+Sample Property 4236336,43.90630307,-78.81461442,Oshawa,Canada,1000,24,12644
+Sample Property 4236344,43.6529206,-79.3849008,Toronto,Canada,1000,24,7368
+Sample Property 4236345,43.6529206,-79.3849008,Toronto,Canada,1000,24,7726
+Sample Property 4236348,43.643761,-79.411293,Toronto,Canada,1000,24,12493
+Sample Property 4236350,43.66624765,-79.40645993,Toronto,Canada,1000,24,8986
+Sample Property 4236351,43.643761,-79.411293,Toronto,Canada,1000,24,10454
+Sample Property 4236352,43.6529206,-79.3849008,Toronto,Canada,1000,24,13407
+Sample Property 4236353,43.643761,-79.411293,Toronto,Canada,1000,24,9365
+Sample Property 4236354,43.643761,-79.411293,Toronto,Canada,1000,24,11230
+Sample Property 4236356,43.643761,-79.411293,Toronto,Canada,1000,24,11900
+Sample Property 4236357,43.643761,-79.411293,Toronto,Canada,1000,24,7161
+Sample Property 4236358,3.1387103,101.6820995,Kuala Lumpur,Malaysia,1000,24,13581
+Sample Property 4236359,43.643761,-79.411293,Toronto,Canada,1000,24,8434
+Sample Property 4236360,43.643761,-79.411293,Toronto,Canada,1000,24,5122
+Sample Property 4236361,43.643761,-79.411293,Toronto,Canada,1000,24,11851
+Sample Property 4236366,43.4474108,-79.6665485,"Oakville, On",Canada,1000,24,9768
+Sample Property 4236368,1.2904527,103.852038,Singapore,Singapore,1000,24,6049
+Sample Property 4236369,43.39137031,-79.76000735,Burlington,Canada,1000,24,8432
+Sample Property 4236371,52.40144354,-1.50367856,Coventry,United Kingdom,1000,24,13782
+Sample Property 4236372,24.763359,46.8142309,Riyadh,Saudi Arabia,1000,24,5952
+Sample Property 4236373,42.98722008,-81.25088401,London,Canada,1000,24,7697
+Sample Property 4236374,34.1683386,-118.6059197,Woodland Hills,United States,1000,24,11893
+Sample Property 4236376,14.8971921,100.83273,Cyberjaya,Thailand,1000,24,5967
+Sample Property 4236377,-26.10642913,28.05541277,Johannesburg,South Africa,1000,24,6132
+Sample Property 4236378,-26.0746304,28.025406,Bryanston,South Africa,1000,24,5989
+Sample Property 4236379,34.17824905,-118.3074009,Burbank,United States,1000,24,12803
+Sample Property 4236380,43.66427051,-79.38446045,Toronto,Canada,1000,24,6315
+Sample Property 4236381,43.6437215,-79.4114031,Toronto,Canada,1000,24,7438
+Sample Property 4236382,49.13365481,-122.8903198,Surrey,Canada,1000,24,8015
+Sample Property 4236383,46.8257374,-71.2349114,Quebec City,Canada,1000,24,12501
+Sample Property 4236384,43.6472967,-79.3870405,Toronto,Canada,1000,24,5016
+Sample Property 4236385,42.98722008,-81.25088401,London,Canada,1000,24,9824
+Sample Property 4236386,42.9844247,-81.2498648,London,Canada,1000,24,13896
+Sample Property 4236387,-6.1753167,106.8271436,Jakarta,Indonesia,1000,24,13725
+Sample Property 4236388,43.643761,-79.411293,Toronto,Canada,1000,24,9931
+Sample Property 4236389,6.2251334,-75.566375,Medellin,Colombia,1000,24,9220
+Sample Property 4236390,42.99157258,-81.2537653,London,Canada,1000,24,12140
+Sample Property 4236391,42.99157258,-81.2537653,London,Canada,1000,24,8307
+Sample Property 4236395,43.42680624,-79.72705364,Oakville,Canada,1000,24,14339
+Sample Property 4236396,43.37931968,-79.80485916,Burlington,Canada,1000,24,13579
+Sample Property 4236397,43.17399605,-80.24302483,Brantford,Canada,1000,24,9808
+Sample Property 4236400,46.8257374,-71.2349114,Quebec City,Canada,1000,24,5063
+Sample Property 4236401,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,14708
+Sample Property 4236402,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,10836
+Sample Property 4236403,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,14405
+Sample Property 4236404,10.7754799,106.7021449,Subang,Malaysia,1000,24,9348
+Sample Property 4236412,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,10360
+Sample Property 4236413,13.2904027,108.4265113,Ho Chi Ming,Viet Nam,1000,24,5103
+Sample Property 4236414,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,10542
+Sample Property 4236415,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,13441
+Sample Property 4236416,13.7529438,100.4941219,Bangkok,Thailand,1000,24,6360
+Sample Property 4236417,13.7529438,100.4941219,Bangkok,Thailand,1000,24,6677
+Sample Property 4236418,13.7529438,100.4941219,Bangkok,Thailand,1000,24,11197
+Sample Property 4236419,13.7529438,100.4941219,Bangkok,Thailand,1000,24,11451
+Sample Property 4236420,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5796
+Sample Property 4236421,13.7529438,100.4941219,Bangkok,Thailand,1000,24,10963
+Sample Property 4236422,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5968
+Sample Property 4236423,13.7529438,100.4941219,Bangkok,Thailand,1000,24,10304
+Sample Property 4236424,13.7529438,100.4941219,Bangkok,Thailand,1000,24,9957
+Sample Property 4236431,13.7529438,100.4941219,Bangkok,Thailand,1000,24,7942
+Sample Property 4236432,13.7529438,100.4941219,Bangkok,Thailand,1000,24,13819
+Sample Property 4236433,13.7529438,100.4941219,Bangkok,Thailand,1000,24,7519
+Sample Property 4236434,13.7529438,100.4941219,Bangkok,Thailand,1000,24,13299
+Sample Property 4236435,13.7529438,100.4941219,Bangkok,Thailand,1000,24,8030
+Sample Property 4236436,13.7529438,100.4941219,Bangkok,Thailand,1000,24,14251
+Sample Property 4236437,13.7529438,100.4941219,Bangkok,Thailand,1000,24,10395
+Sample Property 4236438,13.7529438,100.4941219,Bangkok,Thailand,1000,24,7509
+Sample Property 4236439,13.7529438,100.4941219,Bangkok,Thailand,1000,24,6763
+Sample Property 4236440,13.7529438,100.4941219,Bangkok,Thailand,1000,24,9921
+Sample Property 4236441,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5319
+Sample Property 4236442,13.7529438,100.4941219,Bangkok,Thailand,1000,24,6879
+Sample Property 4236461,14.5906216,120.9799696,Manila,Philippines,1000,24,8784
+Sample Property 4236462,43.6529206,-79.3849008,Toronto,Canada,1000,24,11089
+Sample Property 4236502,13.5859219,100.4160866,Bangkok,Thailand,1000,24,12023
+Sample Property 4236503,29.34748531,48.08583856,Salmiya,Kuwait,1000,24,8388
+Sample Property 4236504,-21.9549806,-49.0232348,São Paulo,Brazil,1000,24,14947
+Sample Property 4236506,13.7529438,100.4941219,Bangkok,Thailand,1000,24,13904
+Sample Property 4236507,13.7529438,100.4941219,Bangkok,Thailand,1000,24,11883
+Sample Property 4236508,2.6923752,101.7501574,Sepang,Malaysia,1000,24,7488
+Sample Property 4236510,3.150486,101.531154,Subang,Malaysia,1000,24,7950
+Sample Property 4236511,2.6923752,101.7501574,Sepang,Malaysia,1000,24,11374
+Sample Property 4236512,2.6923752,101.7501574,Sepang,Malaysia,1000,24,9010
+Sample Property 4236513,45.33245576,-75.65452695,Ottawa,Canada,1000,24,5655
+Sample Property 4236514,45.3321542,-75.65390855,Ottawa,Canada,1000,24,9357
+Sample Property 4236517,29.25892148,47.9727459,Farwaniya,Kuwait,1000,24,7077
+Sample Property 4236518,14.5906216,120.9799696,Manila,Philippines,1000,24,7259
+Sample Property 4236519,14.5906216,120.9799696,Manila,Philippines,1000,24,5647
+Sample Property 4236541,49.1630452,-123.1362247,"Richmond, Bc",Canada,1000,24,6778
+Sample Property 4236543,2.6923752,101.7501574,Sepang,Malaysia,1000,24,12156
+Sample Property 4236545,43.6529206,-79.3849008,Toronto,Canada,1000,24,13823
+Sample Property 4236546,43.652286,-79.3790102,Toronto,Canada,1000,24,9364
+Sample Property 4236577,2.9197711,101.6552743,Cyberjaya,Malaysia,1000,24,10774
+Sample Property 4236578,43.6435954,-79.411702,Toronto,Canada,1000,24,9482
+Sample Property 4236580,33.55434221,-117.6865339,Laguna Niguel,United States,1000,24,13169
+Sample Property 4236581,43.64324046,-79.41096002,Toronto,Canada,1000,24,6595
+Sample Property 4236582,43.64324046,-79.41096002,Toronto,Canada,1000,24,8658
+Sample Property 4236583,13.5859219,100.4160866,Bangkok,Thailand,1000,24,8397
+Sample Property 4236584,34.0566624,-118.2730388,Los Angeles,United States,1000,24,14147
+Sample Property 4236594,-25.87069259,28.18808556,Johannesburg,South Africa,1000,24,13271
+Sample Property 4236595,2.5667362,103.8333255,Puchong,Malaysia,1000,24,7155
+Sample Property 4236597,43.6437215,-79.4114031,Toronto,Canada,1000,24,5726
+Sample Property 4236607,49.28186721,-123.108319,Toronto,Canada,1000,24,14606
+Sample Property 4236610,43.6434608,-79.4223279,Toronto,Canada,1000,24,11668
+Sample Property 4236611,31.4930418,74.3418816,Lahore,Pakistan,1000,24,9359
+Sample Property 4236612,41.0770866,29.0193772,Levent - Istanbul,Turkey,1000,24,7020
+Sample Property 4236613,43.667988,-79.388974,Toronto,Canada,1000,24,6277
+Sample Property 4236614,43.667988,-79.388974,Toronto,Canada,1000,24,6117
+Sample Property 4236615,43.667988,-79.388974,Toronto,Canada,1000,24,5063
+Sample Property 4236616,43.667988,-79.388974,Toronto,Canada,1000,24,8982
+Sample Property 4236617,43.667988,-79.388974,Toronto,Canada,1000,24,10109
+Sample Property 4236618,14.5906216,120.9799696,Manila,Philippines,1000,24,5814
+Sample Property 4236619,2.921525614,101.663661,Subang Jaya,Malaysia,1000,24,6377
+Sample Property 4236622,2.9197711,101.6552743,Cyberjaya,Malaysia,1000,24,9128
+Sample Property 4236623,29.456179,-98.6634069,Dulles,United States,1000,24,10104
+Sample Property 4236624,38.99784131,-77.44606018,"Sterling, Va 20165",United States,1000,24,10702
+Sample Property 4236625,39.0023771,-77.44949341,"Sterling, Va 20165",United States,1000,24,7721
+Sample Property 4236626,38.99810813,-77.44606018,"Sterling, Va 20165",United States,1000,24,5615
+Sample Property 4236627,38.99730767,-77.44537354,"Sterling, Va 20165",United States,1000,24,10651
+Sample Property 4236628,-26.13201493,28.04914713,Illovo,South Africa,1000,24,11784
+Sample Property 4236629,-26.13216904,28.04927588,Illovo,South Africa,1000,24,5343
+Sample Property 4236630,-26.13203419,28.04919004,Illovo,South Africa,1000,24,6265
+Sample Property 4236631,43.6529206,-79.3849008,Toronto,Canada,1000,24,14658
+Sample Property 4236632,38.62700443,-90.25732563,Saint Louis,United States,1000,24,13044
+Sample Property 4236635,43.64819488,-79.38316226,Toronto,Canada,1000,24,11849
+Sample Property 4236636,43.37313558,-79.80946183,Burlington,Canada,1000,24,14820
+Sample Property 4236637,43.39095312,-79.82391357,Burlington,Canada,1000,24,5737
+Sample Property 4236638,43.6529206,-79.3849008,Toronto,Canada,1000,24,5525
+Sample Property 4236639,43.6529206,-79.3849008,Toronto,Canada,1000,24,10033
+Sample Property 4236640,43.6529206,-79.3849008,Toronto,Canada,1000,24,14895
+Sample Property 4236641,43.6529206,-79.3849008,Toronto,Canada,1000,24,11613
+Sample Property 4236644,12.7503486,122.7312101,Manilia,Philippines,1000,24,8165
+Sample Property 4236645,14.5906216,120.9799696,Manila,Philippines,1000,24,8110
+Sample Property 4236646,14.5906216,120.9799696,Manila,Philippines,1000,24,8002
+Sample Property 4236647,14.5906216,120.9799696,Manila,Philippines,1000,24,14780
+Sample Property 4236648,14.5906216,120.9799696,Manila,Philippines,1000,24,8938
+Sample Property 4236649,14.5906216,120.9799696,Manila,Philippines,1000,24,13837
+Sample Property 4236650,14.5906216,120.9799696,Manila,Philippines,1000,24,9703
+Sample Property 4236651,14.5906216,120.9799696,Manila,Philippines,1000,24,9605
+Sample Property 4236652,14.5906216,120.9799696,Manila,Philippines,1000,24,10646
+Sample Property 4236653,14.5906216,120.9799696,Manila,Philippines,1000,24,7673
+Sample Property 4236654,14.5906216,120.9799696,Manila,Philippines,1000,24,14955
+Sample Property 4236655,14.5906216,120.9799696,Manila,Philippines,1000,24,12848
+Sample Property 4236656,3.044590019,101.6234493,"Puchong, Selangor",Malaysia,1000,24,13045
+Sample Property 4236657,43.6529206,-79.3849008,Toronto,Canada,1000,24,6699
+Sample Property 4236660,41.8755546,-87.6244212,Chicago,United States,1000,24,11510
+Sample Property 4236661,41.8755546,-87.6244212,Chicago,United States,1000,24,9484
+Sample Property 4236663,33.5991484,73.0641002,Rawalpindi,Pakistan,1000,24,7825
+Sample Property 4236664,33.6945756,73.0643744,Islamabad,Pakistan,1000,24,10656
+Sample Property 4236665,43.0776779,-79.0918615,Thorold,Canada,1000,24,9101
+Sample Property 4236666,43.1576804,-79.24789086,St. Catharines,Canada,1000,24,8551
+Sample Property 4236667,43.1812084,-79.2514787,St. Catharines,Canada,1000,24,12299
+Sample Property 4236668,29.3797091,47.9735629,Kuwait City,Kuwait,1000,24,10665
+Sample Property 4236699,14.5906216,120.9799696,Manila,Philippines,1000,24,14564
+Sample Property 4236703,12.7503486,122.7312101,Manilia,Philippines,1000,24,12907
+Sample Property 4236704,12.7503486,122.7312101,Manilia,Philippines,1000,24,7073
+Sample Property 4236705,12.7503486,122.7312101,Manilia,Philippines,1000,24,13607
+Sample Property 4236706,12.7503486,122.7312101,Manilia,Philippines,1000,24,12727
+Sample Property 4236707,12.7503486,122.7312101,Manilia,Philippines,1000,24,10210
+Sample Property 4236708,12.7503486,122.7312101,Manilia,Philippines,1000,24,13649
+Sample Property 4236709,12.7503486,122.7312101,Manilia,Philippines,1000,24,13382
+Sample Property 4236710,12.7503486,122.7312101,Manilia,Philippines,1000,24,11516
+Sample Property 4236711,12.7503486,122.7312101,Manilia,Philippines,1000,24,7902
+Sample Property 4236712,12.7503486,122.7312101,Manilia,Philippines,1000,24,11500
+Sample Property 4236713,12.7503486,122.7312101,Manilia,Philippines,1000,24,10491
+Sample Property 4236714,12.7503486,122.7312101,Manilia,Philippines,1000,24,12765
+Sample Property 4236715,12.7503486,122.7312101,Manilia,Philippines,1000,24,10179
+Sample Property 4236716,12.7503486,122.7312101,Manilia,Philippines,1000,24,9347
+Sample Property 4236717,12.7503486,122.7312101,Manilia,Philippines,1000,24,13370
+Sample Property 4236718,12.7503486,122.7312101,Manilia,Philippines,1000,24,7057
+Sample Property 4236719,12.7503486,122.7312101,Manilia,Philippines,1000,24,7997
+Sample Property 4236720,12.7503486,122.7312101,Manilia,Philippines,1000,24,11414
+Sample Property 4236721,12.7503486,122.7312101,Manilia,Philippines,1000,24,5980
+Sample Property 4236722,12.7503486,122.7312101,Manilia,Philippines,1000,24,14832
+Sample Property 4236723,12.7503486,122.7312101,Manilia,Philippines,1000,24,10424
+Sample Property 4236724,12.7503486,122.7312101,Manilia,Philippines,1000,24,13949
+Sample Property 4236725,12.7503486,122.7312101,Manilia,Philippines,1000,24,8074
+Sample Property 4236726,12.7503486,122.7312101,Manilia,Philippines,1000,24,13954
+Sample Property 4236727,12.7503486,122.7312101,Manilia,Philippines,1000,24,7276
+Sample Property 4236728,12.7503486,122.7312101,Manilia,Philippines,1000,24,14645
+Sample Property 4236729,12.7503486,122.7312101,Manilia,Philippines,1000,24,12264
+Sample Property 4236730,12.7503486,122.7312101,Manilia,Philippines,1000,24,6704
+Sample Property 4236731,12.7503486,122.7312101,Manilia,Philippines,1000,24,8379
+Sample Property 4236732,12.7503486,122.7312101,Manilia,Philippines,1000,24,14019
+Sample Property 4236733,12.7503486,122.7312101,Manilia,Philippines,1000,24,5349
+Sample Property 4236734,12.7503486,122.7312101,Manilia,Philippines,1000,24,11578
+Sample Property 4236735,12.7503486,122.7312101,Manilia,Philippines,1000,24,11978
+Sample Property 4236736,12.7503486,122.7312101,Manilia,Philippines,1000,24,13941
+Sample Property 4236737,12.7503486,122.7312101,Manilia,Philippines,1000,24,10644
+Sample Property 4236738,12.7503486,122.7312101,Manilia,Philippines,1000,24,11726
+Sample Property 4236739,43.6429571,-79.3823636,Toronto,Canada,1000,24,10728
+Sample Property 4236741,31.5621916,74.3228517,Lahore,Pakistan,1000,24,7048
+Sample Property 4236742,48.74856687,-122.4745211,"Bellingham, Wa",United States,1000,24,14761
+Sample Property 4236743,43.70647669,-79.39664841,Toronto,Canada,1000,24,5863
+Sample Property 4236744,43.7708927,-79.4133523,Toronto,Canada,1000,24,5281
+Sample Property 4236745,43.6459167,-79.3995737,Toronto,Canada,1000,24,10415
+Sample Property 4236746,33.6945756,73.0643744,Islamabad,Pakistan,1000,24,11216
+Sample Property 4236747,-29.7259661,31.08408004,Umhlanga,South Africa,1000,24,12934
+Sample Property 4236755,17.4926747,-88.1825703,Belize City,Belize,1000,24,8873
+Sample Property 4236756,17.4926747,-88.1825703,Belize City,Belize,1000,24,13813
+Sample Property 4236757,17.4926747,-88.1825703,Belize City,Belize,1000,24,10996
+Sample Property 4236758,17.4926747,-88.1825703,Belize City,Belize,1000,24,7421
+Sample Property 4236759,17.4926747,-88.1825703,Belize City,Belize,1000,24,12756
+Sample Property 4236762,33.7489218,-118.3679114,Rancho Palos Verdes,United States,1000,24,5847
+Sample Property 4236776,14.6105428,121.079623,Manila,Philippines,1000,24,12099
+Sample Property 4236777,14.6105428,121.079623,Manila,Philippines,1000,24,10903
+Sample Property 4236779,-26.0433333,28.0644444,Woodmead,South Africa,1000,24,7397
+Sample Property 4236782,41.8755546,-87.6244212,Chicago,United States,1000,24,13768
+Sample Property 4236783,41.8755546,-87.6244212,Chicago,United States,1000,24,13121
+Sample Property 4236785,13.5859219,100.4160866,Bangkok,Thailand,1000,24,8115
+Sample Property 4236786,13.6943222,100.7512593,Tienhoven,Netherlands,1000,24,5021
+Sample Property 4236787,13.5859219,100.4160866,Bangkok,Thailand,1000,24,6799
+Sample Property 4236788,43.72545977,-79.45276022,Toronto,Canada,1000,24,14556
+Sample Property 4236789,13.5859219,100.4160866,Bangkok,Thailand,1000,24,6260
+Sample Property 4236790,12.5686185,99.9569554,Hua Hin,Thailand,1000,24,5771
+Sample Property 4236791,14.5906216,120.9799696,Manila,Philippines,1000,24,7326
+Sample Property 4236792,14.5906216,120.9799696,Manila,Philippines,1000,24,12468
+Sample Property 4236793,14.5906216,120.9799696,Manila,Philippines,1000,24,13016
+Sample Property 4236794,14.5906216,120.9799696,Manila,Philippines,1000,24,12322
+Sample Property 4236795,3.1387103,101.6820995,Kuala Lumpur,Malaysia,1000,24,9821
+Sample Property 4236796,24.8667795,67.0311286,Karachi,Pakistan,1000,24,12711
+Sample Property 4236797,14.8971921,100.83273,Chacheongsao,Thailand,1000,24,10467
+Sample Property 4236798,12.9318593,100.9006905,Pattaya,Thailand,1000,24,14767
+Sample Property 4236799,14.8971921,100.83273,North Pattaya,Thailand,1000,24,5447
+Sample Property 4236800,14.8971921,100.83273,Suratthani,Thailand,1000,24,6013
+Sample Property 4236801,14.8971921,100.83273,Suratthani,Thailand,1000,24,9206
+Sample Property 4236802,7.715984,98.32212637,Phuket,Thailand,1000,24,7520
+Sample Property 4236803,7.715984,98.32212637,Phuket,Thailand,1000,24,5690
+Sample Property 4236804,7.715984,98.32212637,Phuket,Thailand,1000,24,6012
+Sample Property 4236805,7.715984,98.32212637,Phuket,Thailand,1000,24,8414
+Sample Property 4236806,7.89035785,98.2998182,Phuket,Thailand,1000,24,12655
+Sample Property 4236807,8.1076801,98.306048,Phuket,Thailand,1000,24,5045
+Sample Property 4236808,18.7905657,98.9880846,Chiang Mai,Thailand,1000,24,5874
+Sample Property 4236811,24.8667795,67.0311286,Karachi,Pakistan,1000,24,6481
+Sample Property 4236812,13.7161464,100.5311493,Bangkok,Thailand,1000,24,5319
+Sample Property 4236813,13.7529438,100.4941219,Bangkok,Thailand,1000,24,9052
+Sample Property 4236814,43.6529206,-79.3849008,Toronto,Canada,1000,24,11642
+Sample Property 4236864,31.5621916,74.3228517,Lahore,Pakistan,1000,24,8865
+Sample Property 4236866,52.165755,5.0824583,Tienhoven,Netherlands,1000,24,8598
+Sample Property 4236867,43.65348922,-79.38830674,Toronto,Canada,1000,24,5969
+Sample Property 4236869,13.77604626,100.5740726,Bangkok,Thailand,1000,24,13821
+Sample Property 4236870,-29.5321669,31.207421,Ballito,South Africa,1000,24,8100
+Sample Property 4236873,31.5621916,74.3228517,Lahore,Pakistan,1000,24,5805
+Sample Property 4236874,24.8667795,67.0311286,Karachi,Pakistan,1000,24,11377
+Sample Property 4236895,-25.87069259,28.18808556,Johannesburg,South Africa,1000,24,9055
+Sample Property 4236896,43.6437215,-79.4114031,Toronto,Canada,1000,24,13246
+Sample Property 4236902,2.9197711,101.6552743,Selangor,Malaysia,1000,24,14151
+Sample Property 4236916,43.643761,-79.411293,Toronto,Canada,1000,24,11980
+Sample Property 4236921,43.651451,-79.397331,Toronto,Canada,1000,24,7191
+Sample Property 4236922,43.5076822,-79.66747642,Oakville,Canada,1000,24,12493
+Sample Property 4236925,43.714575,-79.7523867,Brampton,Canada,1000,24,7166
+Sample Property 4236926,43.6529206,-79.3849008,Toronto,Canada,1000,24,7255
+Sample Property 4236927,43.8539172,-79.3242549,Markham,Canada,1000,24,8164
+Sample Property 4236928,44.0545216,-79.4595169,Newmarket,Canada,1000,24,8920
+Sample Property 4236929,43.8009123,-79.3705429,North York,Canada,1000,24,11878
+Sample Property 4236930,43.7665277,-79.4121923,Toronto,Canada,1000,24,13475
+Sample Property 4236931,43.7665277,-79.4121923,Toronto,Canada,1000,24,8531
+Sample Property 4236932,43.8539172,-79.3242549,Markham,Canada,1000,24,10126
+Sample Property 4236933,43.8161477,-79.4245925,Thornhill,Canada,1000,24,12442
+Sample Property 4236934,43.6444165,-79.5672463,Etobicoke,Canada,1000,24,13814
+Sample Property 4236935,43.8252273,-79.5429636,Vaughan,Canada,1000,24,8110
+Sample Property 4236936,43.7278528,-79.4550675,Toronto,Canada,1000,24,7730
+Sample Property 4236937,43.656326,-79.383225,Toronto,Canada,1000,24,8364
+Sample Property 4236938,43.656326,-79.383225,Toronto,Canada,1000,24,5290
+Sample Property 4236939,43.8539172,-79.3242549,Markham,Canada,1000,24,12977
+Sample Property 4236940,43.8539172,-79.3242549,Markham,Canada,1000,24,6478
+Sample Property 4236941,43.7278528,-79.4550675,Toronto,Canada,1000,24,8104
+Sample Property 4236942,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5390
+Sample Property 4236943,13.7529438,100.4941219,Bangkok,Thailand,1000,24,11601
+Sample Property 4236944,13.7529438,100.4941219,Bangkok,Thailand,1000,24,12207
+Sample Property 4236945,13.7529438,100.4941219,Bangkok,Thailand,1000,24,10893
+Sample Property 4236946,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5167
+Sample Property 4236947,13.7529438,100.4941219,Bangkok,Thailand,1000,24,8615
+Sample Property 4236948,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5468
+Sample Property 4236949,13.7529438,100.4941219,Bangkok,Thailand,1000,24,8693
+Sample Property 4236950,13.7529438,100.4941219,Bangkok,Thailand,1000,24,5604
+Sample Property 4236951,13.7529438,100.4941219,Bangkok,Thailand,1000,24,10183
+Sample Property 4236952,13.7529438,100.4941219,Bangkok,Thailand,1000,24,11960
+Sample Property 4236953,43.91174016,-78.69717475,Bowmanville,Canada,1000,24,12602
+Sample Property 4236964,43.64327663,-79.41213012,Toronto,Canada,1000,24,8508
+Sample Property 4236967,42.47070409,-71.02626801,Saugus,Canada,1000,24,5504
+Sample Property 4236980,43.6437215,-79.4114031,Toronto,Canada,1000,24,8268
+Sample Property 4236984,-25.8363889,28.1802778,Centurion,South Africa,1000,24,11077
+Sample Property 4236985,43.6529206,-79.3849008,Toronto,Canada,1000,24,9242
+Sample Property 4237021,-25.8363889,28.1802778,Centurion,South Africa,1000,24,14390
+Sample Property 4237033,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,8557
+Sample Property 4237034,10.7754799,106.7021449,Ho Chi Minh,Viet Nam,1000,24,11945
+Sample Property 4237035,43.643761,-79.411293,Toronto,Canada,1000,24,14271
+Sample Property 4237058,43.643761,-79.411293,Toronto,Canada,1000,24,6005
+Sample Property 4237059,43.643761,-79.411293,Toronto,Canada,1000,24,12771

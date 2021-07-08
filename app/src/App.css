@@ -1,0 +1,36 @@
+.App {
+  display: grid;
+  grid-template-rows: 60% 40%;
+  grid-gap: 20px;
+  height: 100%;
+}
+
+.units-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.unit-table-row {
+  cursor: pointer;
+}
+
+.table-controls {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.table-controls > * {
+  margin-right: 12px !important;
+}
+
+.city-filter {
+  width: 150px;
+}
+
+.pagination-controls {
+  display: inline-flex;
+}
